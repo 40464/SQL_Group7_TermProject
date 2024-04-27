@@ -1,0 +1,2001 @@
+Listing ID,Employee Name,Client Name,Date of Transaction,Status,Final Price,Agent Fee Percentage
+8585561689,"Leon, Patrick","Torres, Robert",2021-05-16,pending rental,,
+8585561689,"Leon, Patrick","Torres, Robert",2021-06-09,rented,4502.79,100
+1550678141,"Olson, Andrea","Cox, Megan",2022-01-29,pending sale,,
+1550678141,"Olson, Andrea","Cox, Megan",2022-02-22,sold,972329.33,4.356720636916402
+8476052241,"Simpson, Christina","Thompson, Tammy",2021-07-25,pending rental,,
+8476052241,"Simpson, Christina",,2021-08-08,relisted,,
+2107612233,"Wilcox, Frank","Flores, Ryan",2023-09-23,pending rental,,
+2107612233,"Wilcox, Frank","Flores, Ryan",2023-09-26,rented,2964.62,100
+4929040086,"Garcia, Christopher","Rojas, Kim",2024-03-15,pending sale,,
+4929040086,"Garcia, Christopher","Rojas, Kim",2024-03-28,sold,853213.22,3.401220486125805
+5607735460,"Turner, Cynthia","Williams, Kimberly",2023-08-09,pending sale,,
+5607735460,"Turner, Cynthia","Williams, Kimberly",2023-09-05,sold,955508.22,4.178771714234321
+1389717897,"Cameron, Katie","Parker, Brandy",2022-09-05,pending sale,,
+1389717897,"Cameron, Katie","Parker, Brandy",2022-09-29,sold,981193.14,3.896047327693406
+9388909297,"Sims, Roberto","Adams, Cody",2023-03-16,pending sale,,
+9388909297,"Sims, Roberto","Adams, Cody",2023-04-10,sold,1609363.06,4.391352461069282
+7677843520,"Thomas, Kenneth","Hernandez, Cheryl",2023-08-30,pending sale,,
+7677843520,"Thomas, Kenneth","Hernandez, Cheryl",2023-09-20,sold,1008477.1,5.615364332836324
+6509337924,"Johnson, Angelica","Daniels, Lauren",2023-02-24,pending sale,,
+6509337924,"Johnson, Angelica","Daniels, Lauren",2023-03-12,sold,1882703.66,4.818839266273082
+8705983375,"Dodson, Rhonda","Miller, Suzanne",2023-01-16,pending rental,,
+8705983375,"Dodson, Rhonda",,2023-01-24,relisted,,
+9832488926,"Cruz, Pamela","Campbell, Kevin",2022-10-26,pending sale,,
+9832488926,"Cruz, Pamela",,2022-11-14,relisted,,
+4574118312,"Watson, Samantha","Dennis, Alyssa",2022-09-13,pending rental,,
+4574118312,"Watson, Samantha","Dennis, Alyssa",2022-10-07,rented,4557.99,100
+5198750912,"Lewis, Kara","Foley, William",2024-01-01,pending rental,,
+5198750912,"Lewis, Kara","Foley, William",2024-01-29,rented,2987.35,100
+3984670548,"Jones, Sarah","Young, Scott",2022-05-27,pending sale,,
+3984670548,"Jones, Sarah",,2022-06-22,relisted,,
+8406139070,"Davis, Craig","Horton, Sarah",2022-07-03,pending sale,,
+8406139070,"Davis, Craig","Horton, Sarah",2022-07-09,sold,419707.04,5.353936715534281
+3229851791,"Smith, Joshua","Ramirez, Daniel",2022-10-05,pending rental,,
+3229851791,"Smith, Joshua","Ramirez, Daniel",2022-10-11,rented,2463.67,100
+6889555211,"Lowery, Michael","Johnson, Dustin",2021-11-17,pending sale,,
+6889555211,"Lowery, Michael","Johnson, Dustin",2021-11-18,sold,355336.86,3.325007154900975
+1314606010,"Mata, Miranda","Gill, Melissa",2023-09-22,pending rental,,
+1314606010,"Mata, Miranda","Gill, Melissa",2023-09-29,rented,4208.54,100
+1610737174,"Lee, Melissa","Adams, Rita",2021-12-30,pending rental,,
+1610737174,"Lee, Melissa",,2022-01-11,relisted,,
+7239676007,"Cameron, Katie","Robinson, Madison",2022-04-25,pending rental,,
+7239676007,"Cameron, Katie",,2022-05-06,relisted,,
+2086246155,"Davis, Ashley","Green, James",2022-05-02,pending rental,,
+2086246155,"Davis, Ashley","Green, James",2022-05-23,rented,1565.57,100
+3439331762,"Howard, Katherine","Mcdaniel, Jeffrey",2023-03-01,pending rental,,
+3439331762,"Howard, Katherine","Mcdaniel, Jeffrey",2023-03-04,rented,4644.06,100
+5965003897,"Clements, Derek","Bruce, Chris",2022-05-12,pending rental,,
+5965003897,"Clements, Derek","Bruce, Chris",2022-06-04,rented,5022.93,100
+4029988290,"Gray, Christina","Johnston, Beth",2024-04-22,pending rental,,
+4029988290,"Gray, Christina","Johnston, Beth",2024-04-28,rented,2030.27,100
+6671861321,"Smith, Joshua","Francis, Derek",2022-04-10,pending rental,,
+6671861321,"Smith, Joshua",,2022-04-19,relisted,,
+8458312431,"White, Gregory","Harris, Jacqueline",2023-05-14,pending sale,,
+8458312431,"White, Gregory","Harris, Jacqueline",2023-05-15,sold,1437352.58,5.996209450325223
+8496767931,"Cruz, Pamela","Ochoa, Maria",2022-09-23,pending sale,,
+8496767931,"Cruz, Pamela","Ochoa, Maria",2022-10-18,sold,1270327.88,4.001004123826511
+5425021848,"White, Gregory","Guerrero, Lori",2022-04-05,pending sale,,
+5425021848,"White, Gregory","Guerrero, Lori",2022-04-10,sold,1498180.43,3.8731860336613217
+4293127714,"Barnes, Michael","Henry, Kevin",2022-10-05,pending rental,,
+4293127714,"Barnes, Michael","Henry, Kevin",2022-10-30,rented,4064.26,100
+3596690783,"Walsh, Timothy","Riley, Cody",2021-09-23,pending sale,,
+3596690783,"Walsh, Timothy","Riley, Cody",2021-10-21,sold,1710664.72,4.872908709860039
+4868521650,"Olson, Andrea","Buchanan, Philip",2022-02-11,pending sale,,
+4868521650,"Olson, Andrea",,2022-03-10,relisted,,
+7210091651,"Miller, Danielle","Smith, Matthew",2022-10-28,pending rental,,
+7210091651,"Miller, Danielle",,2022-11-10,relisted,,
+4398539497,"Skinner, Aaron","Reyes, Laura",2023-06-01,pending sale,,
+4398539497,"Skinner, Aaron",,2023-06-09,relisted,,
+2693365110,"Hines, Monica","Griffin, Jason",2021-09-02,pending rental,,
+2693365110,"Hines, Monica","Griffin, Jason",2021-09-14,rented,2566.67,100
+2025449936,"Smith, Joshua","Hernandez, Sarah",2023-08-31,pending sale,,
+2025449936,"Smith, Joshua",,2023-09-10,relisted,,
+1236473873,"Williams, Kristy","Gonzalez, Brenda",2024-02-09,pending rental,,
+1236473873,"Williams, Kristy",,2024-03-01,relisted,,
+7204092674,"Holland, Kristy","Johnson, Keith",2022-07-28,pending rental,,
+7204092674,"Holland, Kristy",,2022-08-23,relisted,,
+2580001556,"Kane, Diana","Collins, Zachary",2023-04-18,pending rental,,
+2580001556,"Kane, Diana","Collins, Zachary",2023-05-09,rented,3538.46,100
+8927542093,"Meyer, Valerie","Mitchell, Thomas",2022-12-24,pending sale,,
+8927542093,"Meyer, Valerie",,2023-01-04,relisted,,
+9557135220,"Hopkins, Andrew","Aguilar, James",2021-11-19,pending sale,,
+9557135220,"Hopkins, Andrew","Aguilar, James",2021-11-21,sold,1703219.59,5.180739556343605
+2936978259,"Harris, Jennifer","Love, Susan",2024-03-28,pending sale,,
+2936978259,"Harris, Jennifer",,2024-04-27,relisted,,
+4679748328,"Barrett, Joy","Gonzalez, Richard",2021-11-25,pending sale,,
+4679748328,"Barrett, Joy","Gonzalez, Richard",2021-12-09,sold,1481946.94,5.581287274924955
+7925025954,"Johnson, Angelica","Dillon, Ryan",2022-01-19,pending rental,,
+7925025954,"Johnson, Angelica",,2022-02-05,relisted,,
+6331215515,"Mccann, Wendy","Griffin, Kevin",2024-01-17,pending sale,,
+6331215515,"Mccann, Wendy","Griffin, Kevin",2024-01-22,sold,1392642.49,4.411964095344413
+3953411867,"Obrien, Stephanie","Johnson, Melissa",2022-06-10,pending sale,,
+3953411867,"Obrien, Stephanie","Johnson, Melissa",2022-07-07,sold,726845.25,5.4805950887051615
+5377749017,"Bradley, Michael","Evans, Daniel",2022-02-10,pending sale,,
+5377749017,"Bradley, Michael","Evans, Daniel",2022-02-14,sold,1343200.82,4.424161896076446
+4644732617,"Gonzales, Catherine","Barrera, Michael",2022-07-04,pending sale,,
+4644732617,"Gonzales, Catherine",,2022-07-17,relisted,,
+7417954500,"Cruz, Connie","White, Ryan",2023-10-08,pending sale,,
+7417954500,"Cruz, Connie","White, Ryan",2023-11-02,sold,1810360.37,5.003063899051704
+1082010807,"Walsh, Timothy","Santiago, Kevin",2023-08-18,pending sale,,
+1082010807,"Walsh, Timothy",,2023-08-26,relisted,,
+7758397811,"Cruz, Pamela","Vaughan, Antonio",2023-03-28,pending rental,,
+7758397811,"Cruz, Pamela",,2023-04-08,relisted,,
+5962655423,"Shaw, Thomas","Gardner, Ashley",2023-01-16,pending rental,,
+5962655423,"Shaw, Thomas","Gardner, Ashley",2023-01-23,rented,4641.5,100
+7258788948,"Patton, Colton","Green, Karen",2021-09-10,pending sale,,
+7258788948,"Patton, Colton","Green, Karen",2021-09-16,sold,905253.29,5.309727028935003
+2115444271,"Wise, David","Harris, Joshua",2023-03-12,pending sale,,
+2115444271,"Wise, David","Harris, Joshua",2023-04-06,sold,791631.2,5.865767305951348
+3469034358,"Lee, Melissa","Davis, Heidi",2022-07-09,pending rental,,
+3469034358,"Lee, Melissa",,2022-07-19,relisted,,
+1248015752,"Coffey, Patrick","Peterson, Alison",2022-10-04,pending sale,,
+1248015752,"Coffey, Patrick",,2022-10-30,relisted,,
+3601870113,"Murillo, Lydia","Morrison, Timothy",2023-03-09,pending sale,,
+3601870113,"Murillo, Lydia","Morrison, Timothy",2023-03-18,sold,1769152.29,5.488748953688224
+5075844929,"Tanner, Sean","Moore, Harold",2023-02-26,pending sale,,
+5075844929,"Tanner, Sean","Moore, Harold",2023-02-27,sold,1690195.82,4.975949915116641
+3904811704,"Parker, Stephanie","Smith, Scott",2022-11-12,pending sale,,
+3904811704,"Parker, Stephanie","Smith, Scott",2022-11-29,sold,383521.48,3.4545732382302505
+2768414904,"Collins, Briana","Adams, Emily",2023-09-08,pending rental,,
+2768414904,"Collins, Briana","Adams, Emily",2023-09-25,rented,2187.42,100
+7678323258,"Ross, Patricia","Miles, James",2022-04-07,pending sale,,
+7678323258,"Ross, Patricia",,2022-04-26,relisted,,
+2234421919,"Shaffer, Jacqueline","Carlson, William",2024-03-03,pending rental,,
+2234421919,"Shaffer, Jacqueline","Carlson, William",2024-03-05,rented,4524.16,100
+5954345437,"Brennan, Lindsay","Thomas, Christopher",2023-06-02,pending sale,,
+5954345437,"Brennan, Lindsay",,2023-06-06,relisted,,
+4772771232,"Taylor, Richard","Black, Paul",2023-12-06,pending sale,,
+4772771232,"Taylor, Richard",,2023-12-17,relisted,,
+1465441966,"Barnes, Michael","Conner, Jocelyn",2021-09-09,pending sale,,
+1465441966,"Barnes, Michael",,2021-10-04,relisted,,
+4338378264,"Ross, Patricia","Daniels, Lauren",2022-01-22,pending rental,,
+4338378264,"Ross, Patricia","Daniels, Lauren",2022-02-01,rented,3643.23,100
+6297058106,"Paul, Ashley","Hill, James",2023-04-13,pending sale,,
+6297058106,"Paul, Ashley",,2023-05-10,relisted,,
+8119868273,"Cordova, Virginia","Quinn, Brian",2022-12-03,pending rental,,
+8119868273,"Cordova, Virginia","Quinn, Brian",2022-12-16,rented,5738.27,100
+2630626433,"Williams, Kristy","Richards, Brittany",2024-04-14,pending sale,,
+2630626433,"Williams, Kristy","Richards, Brittany",2024-04-29,sold,1581091.52,3.88950178000508
+2890928519,"Coffey, Patrick","Huber, Kyle",2021-11-21,pending rental,,
+2890928519,"Coffey, Patrick","Huber, Kyle",2021-12-09,rented,3347.62,100
+9103974633,"Fry, Joseph","Garcia, Sandra",2023-03-27,pending sale,,
+9103974633,"Fry, Joseph","Garcia, Sandra",2023-04-21,sold,1275111.03,5.714450064645934
+5512259345,"Simpson, Christina","Steele, Karen",2022-01-30,pending sale,,
+5512259345,"Simpson, Christina",,2022-02-26,relisted,,
+9422654202,"Pham, Karen","Peterson, Alison",2024-02-07,pending sale,,
+9422654202,"Pham, Karen",,2024-03-08,relisted,,
+9297003919,"Andrews, Faith","Shannon, Richard",2024-04-09,pending sale,,
+9297003919,"Andrews, Faith","Shannon, Richard",2024-05-08,sold,1774998.44,4.022358007152987
+9045845380,"Garcia, Hannah","Edwards, Wanda",2021-09-08,pending rental,,
+9045845380,"Garcia, Hannah","Edwards, Wanda",2021-09-10,rented,4472.83,100
+2973740298,"Murillo, Lydia","Webster, Garrett",2021-11-12,pending sale,,
+2973740298,"Murillo, Lydia",,2021-12-06,relisted,,
+4752913842,"Cordova, Virginia","Sullivan, Darlene",2021-10-13,pending rental,,
+4752913842,"Cordova, Virginia",,2021-10-31,relisted,,
+1485249191,"Cox, Kathleen","Cross, Rebecca",2024-01-01,pending sale,,
+1485249191,"Cox, Kathleen",,2024-01-05,relisted,,
+1633848459,"Howard, Katherine","Thomas, Brian",2021-11-07,pending rental,,
+1633848459,"Howard, Katherine",,2021-11-16,relisted,,
+1548304257,"Miller, Alejandro","Smith, Jennifer",2021-12-22,pending sale,,
+1548304257,"Miller, Alejandro",,2022-01-12,relisted,,
+4201984569,"Howard, Katherine","Green, Nicholas",2022-01-27,pending rental,,
+4201984569,"Howard, Katherine","Green, Nicholas",2022-02-19,rented,4796.4,100
+7468089291,"Collier, James","Patterson, Daniel",2022-10-07,pending sale,,
+7468089291,"Collier, James","Patterson, Daniel",2022-10-12,sold,1648235.94,5.376861628085031
+2240975027,"Kane, Diana","Thompson, Tammy",2022-12-27,pending sale,,
+2240975027,"Kane, Diana","Thompson, Tammy",2022-12-28,sold,815458.27,3.9142415262369297
+5493942172,"Paul, Ashley","Bailey, Anthony",2022-10-23,pending sale,,
+5493942172,"Paul, Ashley","Bailey, Anthony",2022-10-24,sold,1575212.83,3.8409762138906896
+1979903443,"Mccann, Wendy","Hernandez, Donna",2022-12-13,pending rental,,
+1979903443,"Mccann, Wendy",,2023-01-07,relisted,,
+2536730589,"Cameron, Katie","Lam, Kenneth",2023-01-23,pending sale,,
+2536730589,"Cameron, Katie",,2023-02-04,relisted,,
+6091585499,"Murillo, Lydia","Smith, Anthony",2021-11-04,pending sale,,
+6091585499,"Murillo, Lydia","Smith, Anthony",2021-11-15,sold,634404.03,5.883523734374293
+7066910929,"Coffey, Patrick","Anderson, Jacqueline",2021-11-12,pending sale,,
+7066910929,"Coffey, Patrick","Anderson, Jacqueline",2021-11-18,sold,1812045.44,5.167412286342643
+8126305301,"Collier, James","Mcdaniel, Jeffrey",2024-05-04,pending sale,,
+8126305301,"Collier, James",,2024-05-06,relisted,,
+3891892618,"Mcgrath, Alison","Hudson, Christopher",2021-06-03,pending rental,,
+3891892618,"Mcgrath, Alison","Hudson, Christopher",2021-07-03,rented,1740.34,100
+1296658742,"Fry, Joseph","Rios, Steven",2023-05-03,pending rental,,
+1296658742,"Fry, Joseph",,2023-05-26,relisted,,
+5078007095,"Gibbs, Anthony","Johnson, Keith",2023-01-22,pending rental,,
+5078007095,"Gibbs, Anthony",,2023-01-26,relisted,,
+1007036444,"Wood, Katelyn","Armstrong, Christopher",2022-04-03,pending rental,,
+1007036444,"Wood, Katelyn","Armstrong, Christopher",2022-04-06,rented,3325.36,100
+2712876766,"Mccann, Wendy","Wilson, Tonya",2023-10-23,pending rental,,
+2712876766,"Mccann, Wendy","Wilson, Tonya",2023-10-31,rented,4901.35,100
+2188927713,"Cruz, Pamela","Roberson, Carlos",2023-12-18,pending sale,,
+2188927713,"Cruz, Pamela","Roberson, Carlos",2023-12-23,sold,1332335.92,3.317594817723216
+8887288745,"Koch, Luis","King, Larry",2024-04-05,pending sale,,
+8887288745,"Koch, Luis","King, Larry",2024-05-02,sold,605726.34,5.535201462043261
+9781848504,"Miller, Danielle","Dennis, Rodney",2023-06-21,pending sale,,
+9781848504,"Miller, Danielle","Dennis, Rodney",2023-06-26,sold,864752.52,5.991291037524528
+5246177119,"Cordova, Virginia","Tapia, Jeffrey",2021-11-25,pending sale,,
+5246177119,"Cordova, Virginia","Tapia, Jeffrey",2021-12-16,sold,262398.98,4.440483851901021
+5489503542,"Bright, Robert","Weaver, Allison",2021-07-24,pending rental,,
+5489503542,"Bright, Robert",,2021-08-05,relisted,,
+7870695448,"Watson, Anthony","Rivera, Karen",2021-07-22,pending sale,,
+7870695448,"Watson, Anthony","Rivera, Karen",2021-08-20,sold,776734.29,4.274074911102595
+8379069633,"Murillo, Lydia","Crawford, Andrew",2022-12-21,pending sale,,
+8379069633,"Murillo, Lydia","Crawford, Andrew",2023-01-18,sold,141305.09,4.953805777382401
+3916988854,"Rios, Mary","Dillon, Ryan",2023-11-29,pending sale,,
+3916988854,"Rios, Mary",,2023-12-11,relisted,,
+1179708560,"Mccann, Wendy","Mcdaniel, Victor",2023-06-04,pending rental,,
+1179708560,"Mccann, Wendy",,2023-06-26,relisted,,
+6217811860,"Koch, Luis","Grimes, Emily",2021-07-08,pending rental,,
+6217811860,"Koch, Luis","Grimes, Emily",2021-07-27,rented,3060.17,100
+4649964286,"Harris, Jennifer","Chen, Donna",2022-08-04,pending rental,,
+4649964286,"Harris, Jennifer",,2022-08-07,relisted,,
+3185729035,"Fry, Joseph","Baker, Bridget",2023-09-15,pending rental,,
+3185729035,"Fry, Joseph",,2023-10-01,relisted,,
+6477660645,"Walker, Aaron","Murillo, Raymond",2022-05-06,pending rental,,
+6477660645,"Walker, Aaron","Murillo, Raymond",2022-05-21,rented,3400.53,100
+4846487971,"Harris, Jennifer","Thomas, John",2022-10-13,pending rental,,
+4846487971,"Harris, Jennifer",,2022-11-04,relisted,,
+8154913902,"Turner, Cynthia","Turner, Danny",2022-01-29,pending sale,,
+8154913902,"Turner, Cynthia",,2022-02-06,relisted,,
+5870414601,"Mata, Miranda","Powell, Patricia",2022-03-18,pending sale,,
+5870414601,"Mata, Miranda",,2022-04-04,relisted,,
+8200731015,"Olson, Andrea","Dixon, Nancy",2023-01-07,pending sale,,
+8200731015,"Olson, Andrea","Dixon, Nancy",2023-01-18,sold,108769.28,5.356988479255331
+5272194206,"Barrett, Joy","Castro, Charles",2022-01-20,pending sale,,
+5272194206,"Barrett, Joy",,2022-01-25,relisted,,
+3233107632,"Paul, Ashley","Mathews, Steven",2024-02-24,pending sale,,
+3233107632,"Paul, Ashley","Mathews, Steven",2024-03-19,sold,1001931.74,3.8370977855835138
+9706560441,"Olsen, Ann","Smith, Anthony",2022-07-19,pending sale,,
+9706560441,"Olsen, Ann",,2022-08-01,relisted,,
+6762538167,"Collier, James","Chapman, Harold",2021-06-27,pending rental,,
+6762538167,"Collier, James","Chapman, Harold",2021-06-28,rented,3817.68,100
+2686281691,"Zimmerman, Melissa","Ritter, Megan",2023-02-02,pending sale,,
+2686281691,"Zimmerman, Melissa",,2023-03-04,relisted,,
+8228021275,"Wheeler, Michelle","Monroe, Lance",2023-05-23,pending rental,,
+8228021275,"Wheeler, Michelle","Monroe, Lance",2023-06-04,rented,5929.43,100
+5938229910,"Watson, Anthony","Dennis, Rodney",2021-12-12,pending sale,,
+5938229910,"Watson, Anthony",,2022-01-03,relisted,,
+3982802982,"Turner, Cynthia","Carpenter, Kathleen",2021-09-05,pending sale,,
+3982802982,"Turner, Cynthia",,2021-09-14,relisted,,
+1640483734,"Wood, Maria","Richardson, Todd",2023-10-28,pending rental,,
+1640483734,"Wood, Maria",,2023-10-30,relisted,,
+9230055066,"Ross, Patricia","Thomas, Richard",2022-04-09,pending sale,,
+9230055066,"Ross, Patricia",,2022-05-04,relisted,,
+6556919148,"Ross, Molly","Duncan, Karen",2024-01-27,pending rental,,
+6556919148,"Ross, Molly",,2024-02-10,relisted,,
+9371925536,"Hopkins, Andrew","Saunders, Allison",2022-07-05,pending rental,,
+9371925536,"Hopkins, Andrew","Saunders, Allison",2022-07-31,rented,2045.42,100
+5473354479,"Harris, Jennifer","Williams, Rebecca",2023-06-25,pending sale,,
+5473354479,"Harris, Jennifer",,2023-07-21,relisted,,
+3403730778,"Paul, Ashley","Johnston, Beth",2021-10-19,pending sale,,
+3403730778,"Paul, Ashley",,2021-11-06,relisted,,
+5947287362,"Evans, Teresa","Carpenter, Kathleen",2021-07-24,pending sale,,
+5947287362,"Evans, Teresa",,2021-08-13,relisted,,
+4130146192,"Perry, Cynthia","Richmond, Robert",2022-03-03,pending sale,,
+4130146192,"Perry, Cynthia",,2022-03-11,relisted,,
+1125059838,"Diaz, Bianca","Ortega, Benjamin",2024-02-18,pending rental,,
+1125059838,"Diaz, Bianca",,2024-03-09,relisted,,
+8236741468,"Dodson, Rhonda","Kline, Curtis",2021-08-19,pending sale,,
+8236741468,"Dodson, Rhonda","Kline, Curtis",2021-09-07,sold,1272519.63,3.391969765902649
+5848834121,"Wheeler, Michelle","Roberson, Carlos",2022-05-19,pending sale,,
+5848834121,"Wheeler, Michelle",,2022-06-08,relisted,,
+6309896019,"Watson, Samantha","Wilson, Jacqueline",2023-01-29,pending rental,,
+6309896019,"Watson, Samantha","Wilson, Jacqueline",2023-02-20,rented,3541.92,100
+8244727394,"Leon, Patrick","Bolton, Kristin",2021-05-25,pending sale,,
+8244727394,"Leon, Patrick","Bolton, Kristin",2021-06-02,sold,2237039.96,3.0263830183079383
+4272527643,"Walsh, Timothy","Wilson, Jamie",2022-01-28,pending rental,,
+4272527643,"Walsh, Timothy",,2022-02-02,relisted,,
+8909794996,"Bright, Robert","Allen, Shirley",2023-05-29,pending sale,,
+8909794996,"Bright, Robert","Allen, Shirley",2023-06-15,sold,1601325.65,5.5403580517690845
+1349592159,"Olson, Andrea","Valenzuela, Brandon",2022-08-25,pending rental,,
+1349592159,"Olson, Andrea",,2022-09-20,relisted,,
+4492646825,"Coffey, Patrick","Escobar, Peggy",2024-04-08,pending sale,,
+4492646825,"Coffey, Patrick","Escobar, Peggy",2024-04-21,sold,616661.05,5.606290311172384
+6849837534,"Klein, Brian","Rogers, Heather",2023-11-10,pending rental,,
+6849837534,"Klein, Brian",,2023-12-01,relisted,,
+4677453554,"Watson, Anthony","Lindsey, Stephanie",2023-10-25,pending sale,,
+4677453554,"Watson, Anthony",,2023-11-06,relisted,,
+6933223565,"Willis, Stephanie","Gibbs, Angela",2023-09-04,pending rental,,
+6933223565,"Willis, Stephanie","Gibbs, Angela",2023-09-18,rented,5172.46,100
+9701212379,"Clements, Derek","Evans, Brittany",2024-01-25,pending sale,,
+9701212379,"Clements, Derek",,2024-02-15,relisted,,
+4516566487,"Bradley, Michael","Salazar, Denise",2021-06-09,pending sale,,
+4516566487,"Bradley, Michael",,2021-06-16,relisted,,
+8733157676,"Adams, Ashley","Jones, Stephanie",2023-05-11,pending sale,,
+8733157676,"Adams, Ashley","Jones, Stephanie",2023-05-26,sold,619203.39,3.126834217497144
+4054594084,"Willis, Stephanie","Garcia, Linda",2021-12-29,pending rental,,
+4054594084,"Willis, Stephanie","Garcia, Linda",2022-01-11,rented,4402.58,100
+5542612392,"Skinner, Aaron","Barrera, Michael",2023-08-04,pending rental,,
+5542612392,"Skinner, Aaron","Barrera, Michael",2023-08-11,rented,1914.62,100
+1069301989,"Roberts, Sandra","Francis, Derek",2021-10-06,pending rental,,
+1069301989,"Roberts, Sandra","Francis, Derek",2021-11-04,rented,2045.11,100
+9820134585,"Diaz, Bianca","Richards, Brittany",2023-01-09,pending sale,,
+9820134585,"Diaz, Bianca","Richards, Brittany",2023-01-16,sold,637446.2,3.5021936558648354
+4279198694,"Coleman, Katherine","Carney, Annette",2021-08-23,pending sale,,
+4279198694,"Coleman, Katherine","Carney, Annette",2021-08-31,sold,1551444.62,3.1841140003109754
+6008161321,"Moore, Robert","King, Dana",2024-02-25,pending sale,,
+6008161321,"Moore, Robert",,2024-03-24,relisted,,
+9957260041,"Brown, John","Wells, Jacob",2024-02-10,pending sale,,
+9957260041,"Brown, John",,2024-02-29,relisted,,
+7314189443,"Roberts, Sandra","Mueller, William",2022-02-01,pending rental,,
+7314189443,"Roberts, Sandra","Mueller, William",2022-02-24,rented,4696.31,100
+6978233189,"Carlson, Megan","Collier, Stacey",2024-04-24,pending rental,,
+6978233189,"Carlson, Megan",,2024-04-28,relisted,,
+3610247422,"Olson, Andrea","Cooper, Monica",2022-11-21,pending rental,,
+3610247422,"Olson, Andrea",,2022-12-12,relisted,,
+4124604476,"Paul, Ashley","Brown, Matthew",2023-02-23,pending sale,,
+4124604476,"Paul, Ashley",,2023-03-06,relisted,,
+2970238604,"Clements, Derek","Ortiz, John",2023-09-29,pending rental,,
+2970238604,"Clements, Derek","Ortiz, John",2023-10-18,rented,3631.04,100
+9925890540,"Campos, Michael","Martinez, Alex",2022-08-27,pending sale,,
+9925890540,"Campos, Michael","Martinez, Alex",2022-09-09,sold,2018098.58,4.75561552673332
+7544643653,"Coleman, Katherine","Bailey, Eric",2023-01-22,pending rental,,
+7544643653,"Coleman, Katherine","Bailey, Eric",2023-02-19,rented,5091.95,100
+6865394995,"Cameron, Katie","Perez, Monica",2021-11-23,pending rental,,
+6865394995,"Cameron, Katie","Perez, Monica",2021-12-12,rented,3531.5,100
+3361937279,"Anderson, Joseph","Waller, Thomas",2022-02-20,pending rental,,
+3361937279,"Anderson, Joseph","Waller, Thomas",2022-02-25,rented,3794.75,100
+9593412636,"Obrien, Stephanie","Guerrero, Lori",2023-11-04,pending rental,,
+9593412636,"Obrien, Stephanie","Guerrero, Lori",2023-11-09,rented,4419.59,100
+4780165153,"Shaw, Thomas","Ortega, Matthew",2022-05-15,pending rental,,
+4780165153,"Shaw, Thomas",,2022-05-23,relisted,,
+2534365266,"Thomas, Kenneth","Stevens, Miguel",2021-11-20,pending sale,,
+2534365266,"Thomas, Kenneth",,2021-11-24,relisted,,
+2843255367,"Andrews, Faith","Montgomery, Jorge",2022-11-09,pending sale,,
+2843255367,"Andrews, Faith",,2022-11-17,relisted,,
+4054264765,"Jones, Sarah","David, Matthew",2022-10-10,pending rental,,
+4054264765,"Jones, Sarah",,2022-11-04,relisted,,
+1960587642,"Norris, Joshua","Duncan, Karen",2023-04-04,pending rental,,
+1960587642,"Norris, Joshua","Duncan, Karen",2023-04-11,rented,5384.25,100
+7006094371,"Frye, Angela","Carlson, William",2022-02-27,pending rental,,
+7006094371,"Frye, Angela","Carlson, William",2022-03-04,rented,4026.41,100
+8529292805,"Ross, Molly","Thomas, Antonio",2022-09-25,pending rental,,
+8529292805,"Ross, Molly",,2022-09-29,relisted,,
+9279409184,"Clements, Derek","Kaiser, Tiffany",2023-05-15,pending sale,,
+9279409184,"Clements, Derek","Kaiser, Tiffany",2023-06-10,sold,1009413.54,4.667622873917014
+9326538043,"Romero, Diane","Smith, Scott",2022-05-23,pending sale,,
+9326538043,"Romero, Diane",,2022-05-26,relisted,,
+5814738596,"Grant, Douglas","Wilkins, Holly",2023-01-21,pending sale,,
+5814738596,"Grant, Douglas","Wilkins, Holly",2023-02-04,sold,2220818.42,3.291472320276189
+1460844986,"Gonzales, Catherine","Boyd, Luke",2024-04-12,pending sale,,
+1460844986,"Gonzales, Catherine","Boyd, Luke",2024-05-09,sold,259854.39,3.117194267852292
+5876272051,"Moore, Robert","Stanley, Ashley",2021-10-01,pending rental,,
+5876272051,"Moore, Robert",,2021-10-20,relisted,,
+8960971197,"Romero, Diane","Jones, Dorothy",2022-08-21,pending rental,,
+8960971197,"Romero, Diane",,2022-09-18,relisted,,
+3742400768,"Collier, James","Wilkerson, Abigail",2022-04-12,pending sale,,
+3742400768,"Collier, James",,2022-05-06,relisted,,
+4429598131,"Taylor, Richard","Morris, Ian",2021-10-16,pending sale,,
+4429598131,"Taylor, Richard",,2021-10-17,relisted,,
+5814115067,"Cameron, Katie","Foster, Michael",2023-11-25,pending rental,,
+5814115067,"Cameron, Katie","Foster, Michael",2023-12-08,rented,3670.68,100
+4588653918,"Thomas, Kenneth","Ortega, Benjamin",2023-11-07,pending rental,,
+4588653918,"Thomas, Kenneth","Ortega, Benjamin",2023-12-02,rented,2563.05,100
+6498747670,"Gonzales, Catherine","Mitchell, Michelle",2022-08-22,pending sale,,
+6498747670,"Gonzales, Catherine",,2022-08-26,relisted,,
+7218776805,"Fry, Joseph","Smith, Jennifer",2023-09-23,pending rental,,
+7218776805,"Fry, Joseph","Smith, Jennifer",2023-10-20,rented,3137.34,100
+3491126140,"Taylor, Jessica","Arias, Rebecca",2022-02-02,pending sale,,
+3491126140,"Taylor, Jessica",,2022-02-03,relisted,,
+2575126600,"Jones, Sarah","Roberts, Craig",2022-07-15,pending rental,,
+2575126600,"Jones, Sarah",,2022-08-07,relisted,,
+6059534640,"Howard, Katherine","Hansen, Jennifer",2021-04-28,pending rental,,
+6059534640,"Howard, Katherine","Hansen, Jennifer",2021-05-25,rented,1800.57,100
+7360665089,"Terry, Zachary","Kramer, Dakota",2023-12-21,pending rental,,
+7360665089,"Terry, Zachary","Kramer, Dakota",2024-01-05,rented,4743.46,100
+5144236342,"Carlson, Megan","Vaughn, Rebecca",2022-06-01,pending sale,,
+5144236342,"Carlson, Megan","Vaughn, Rebecca",2022-06-29,sold,1345583.89,3.1663384220393604
+6292456399,"Campos, Michael","Medina, Kristina",2021-10-28,pending sale,,
+6292456399,"Campos, Michael",,2021-11-05,relisted,,
+5160779813,"Hodges, Patrick","Young, Amy",2022-09-27,pending sale,,
+5160779813,"Hodges, Patrick",,2022-10-22,relisted,,
+6938700536,"Barnes, Michael","Evans, Daniel",2021-04-25,pending sale,,
+6938700536,"Barnes, Michael",,2021-05-24,relisted,,
+8942178278,"Koch, Luis","Moore, Jesse",2022-02-20,pending sale,,
+8942178278,"Koch, Luis",,2022-03-01,relisted,,
+6283544943,"Miller, Danielle","Mcbride, Michael",2024-04-12,pending sale,,
+6283544943,"Miller, Danielle",,2024-05-11,relisted,,
+1150649093,"Williams, Kristy","Romero, Jessica",2022-10-02,pending rental,,
+1150649093,"Williams, Kristy","Romero, Jessica",2022-10-07,rented,5401.72,100
+9412150180,"Shaw, Thomas","Morton, John",2023-02-19,pending rental,,
+9412150180,"Shaw, Thomas",,2023-03-09,relisted,,
+8559541592,"Shaw, Thomas","Mullins, Katherine",2022-07-27,pending rental,,
+8559541592,"Shaw, Thomas","Mullins, Katherine",2022-08-03,rented,4520.11,100
+3900966687,"Adams, Ashley","Price, Deanna",2021-11-09,pending rental,,
+3900966687,"Adams, Ashley",,2021-12-01,relisted,,
+3679458786,"Obrien, Stephanie","Lloyd, Judy",2022-07-26,pending sale,,
+3679458786,"Obrien, Stephanie",,2022-08-06,relisted,,
+6772354521,"Johnson, Angelica","Rodriguez, Stephanie",2023-01-25,pending sale,,
+6772354521,"Johnson, Angelica",,2023-02-01,relisted,,
+3214084026,"Garrett, Raymond","Davis, Joseph",2023-10-08,pending rental,,
+3214084026,"Garrett, Raymond",,2023-11-07,relisted,,
+5511678597,"Wood, Katelyn","Webb, James",2022-07-06,pending rental,,
+5511678597,"Wood, Katelyn","Webb, James",2022-07-10,rented,4866.67,100
+2111036008,"Davis, Ashley","Garza, Robin",2023-01-20,pending sale,,
+2111036008,"Davis, Ashley","Garza, Robin",2023-02-04,sold,903881.91,3.467858958139467
+2922953139,"Gray, Christina","Dillon, Ryan",2023-12-29,pending sale,,
+2922953139,"Gray, Christina",,2024-01-14,relisted,,
+6279184779,"Bell, Christopher","Merritt, Danielle",2022-09-19,pending rental,,
+6279184779,"Bell, Christopher","Merritt, Danielle",2022-09-26,rented,3147.16,100
+8647390847,"Coffey, Patrick","Collier, Stacey",2022-08-21,pending rental,,
+8647390847,"Coffey, Patrick",,2022-08-31,relisted,,
+4606363264,"Hill, Allen","Johnson, Dylan",2022-01-13,pending rental,,
+4606363264,"Hill, Allen","Johnson, Dylan",2022-01-24,rented,4427.07,100
+1700134563,"Watson, Anthony","Davis, Ronald",2022-08-13,pending rental,,
+1700134563,"Watson, Anthony","Davis, Ronald",2022-08-20,rented,2697.76,100
+9093324657,"Wheeler, Michelle","Nelson, April",2023-02-03,pending rental,,
+9093324657,"Wheeler, Michelle","Nelson, April",2023-02-21,rented,3401.13,100
+9822599438,"Hill, Allen","Lloyd, Daniel",2022-12-16,pending sale,,
+9822599438,"Hill, Allen",,2022-12-28,relisted,,
+4494094480,"Murillo, Lydia","Lee, April",2023-02-10,pending rental,,
+4494094480,"Murillo, Lydia",,2023-03-10,relisted,,
+2511521693,"Sims, Roberto","Joseph, Samantha",2023-11-01,pending sale,,
+2511521693,"Sims, Roberto","Joseph, Samantha",2023-11-26,sold,1864657.93,4.681395525046553
+4352473165,"Walker, Aaron","Alvarez, Tyler",2021-08-05,pending rental,,
+4352473165,"Walker, Aaron","Alvarez, Tyler",2021-08-17,rented,3989.85,100
+8161561078,"Brennan, Lindsay","Phillips, Carl",2023-07-03,pending rental,,
+8161561078,"Brennan, Lindsay","Phillips, Carl",2023-07-17,rented,5405.87,100
+1498534408,"Fletcher, Margaret","Hoffman, Jessica",2023-08-12,pending sale,,
+1498534408,"Fletcher, Margaret","Hoffman, Jessica",2023-08-23,sold,1388032.52,4.833320877841313
+6331197523,"Skinner, Aaron","Mccormick, Raymond",2022-05-30,pending sale,,
+6331197523,"Skinner, Aaron",,2022-06-08,relisted,,
+7956795131,"Parker, Stephanie","Carney, Annette",2023-09-06,pending rental,,
+7956795131,"Parker, Stephanie",,2023-09-24,relisted,,
+1870199068,"Taylor, Jessica","Jimenez, Michelle",2023-07-13,pending sale,,
+1870199068,"Taylor, Jessica","Jimenez, Michelle",2023-08-08,sold,488346.06,5.717218714870466
+2263496690,"Lopez, Katherine","Gardner, Erika",2023-09-27,pending rental,,
+2263496690,"Lopez, Katherine","Gardner, Erika",2023-10-07,rented,2567.55,100
+8878730027,"Lowery, Michael","Pruitt, Diane",2023-07-22,pending sale,,
+8878730027,"Lowery, Michael","Pruitt, Diane",2023-08-14,sold,2046978.18,4.630812614302232
+1898064085,"Williams, Kristy","Montoya, Jason",2021-12-14,pending rental,,
+1898064085,"Williams, Kristy","Montoya, Jason",2022-01-05,rented,5434.63,100
+4591979194,"White, Gregory","Newton, Tiffany",2022-08-31,pending rental,,
+4591979194,"White, Gregory","Newton, Tiffany",2022-09-02,rented,4916.35,100
+1038154948,"Davis, Craig","Huang, Richard",2021-08-19,pending rental,,
+1038154948,"Davis, Craig","Huang, Richard",2021-09-05,rented,3794.74,100
+4253468332,"Wise, David","Simpson, Stephanie",2023-04-02,pending sale,,
+4253468332,"Wise, David",,2023-04-12,relisted,,
+3355553533,"Miller, Alejandro","Davis, Lori",2023-11-13,pending rental,,
+3355553533,"Miller, Alejandro","Davis, Lori",2023-12-13,rented,3091.06,100
+6154413518,"Mcgrath, Alison","Romero, Jessica",2023-09-12,pending sale,,
+6154413518,"Mcgrath, Alison",,2023-09-23,relisted,,
+5681926325,"Terry, Zachary","Hernandez, Jerry",2022-12-15,pending rental,,
+5681926325,"Terry, Zachary",,2022-12-30,relisted,,
+9289364208,"Mata, Miranda","Taylor, Dawn",2022-01-10,pending sale,,
+9289364208,"Mata, Miranda",,2022-02-01,relisted,,
+8088766599,"Galvan, Alyssa","Watts, Jamie",2022-09-08,pending sale,,
+8088766599,"Galvan, Alyssa",,2022-10-04,relisted,,
+3681532260,"Anderson, Joseph","Wallace, Michael",2023-03-14,pending sale,,
+3681532260,"Anderson, Joseph",,2023-03-15,relisted,,
+3163319023,"Miller, Danielle","Young, Matthew",2024-04-16,pending rental,,
+3163319023,"Miller, Danielle","Young, Matthew",2024-05-03,rented,5217.3,100
+3594117987,"Lopez, Katherine","Miller, Kristin",2023-09-03,pending sale,,
+3594117987,"Lopez, Katherine","Miller, Kristin",2023-09-05,sold,1986988.03,3.357813160709232
+8624432614,"Lewis, Kara","Benson, Michelle",2022-02-27,pending rental,,
+8624432614,"Lewis, Kara","Benson, Michelle",2022-03-27,rented,3029.89,100
+5556972179,"Coleman, Katherine","Bryan, Kayla",2024-04-17,pending rental,,
+5556972179,"Coleman, Katherine","Bryan, Kayla",2024-05-13,rented,5188.57,100
+1686652093,"Cameron, Katie","Moore, David",2023-05-12,pending sale,,
+1686652093,"Cameron, Katie",,2023-05-26,relisted,,
+5450628420,"Skinner, Aaron","Barton, Christine",2022-01-03,pending rental,,
+5450628420,"Skinner, Aaron",,2022-01-18,relisted,,
+7118113128,"Clements, Derek","Evans, Brittany",2022-05-07,pending rental,,
+7118113128,"Clements, Derek","Evans, Brittany",2022-05-30,rented,2359.61,100
+6226710578,"Davis, Ashley","Ball, Brian",2023-03-02,pending sale,,
+6226710578,"Davis, Ashley",,2023-03-23,relisted,,
+7502303097,"Cruz, Pamela","Edwards, Andrew",2022-07-02,pending sale,,
+7502303097,"Cruz, Pamela","Edwards, Andrew",2022-07-28,sold,1442585.02,4.216496425451059
+6086574536,"Greene, Courtney","Hill, Lisa",2023-03-03,pending rental,,
+6086574536,"Greene, Courtney","Hill, Lisa",2023-03-22,rented,3893.75,100
+2627390594,"Dodson, Rhonda","Carroll, Sheila",2022-11-22,pending rental,,
+2627390594,"Dodson, Rhonda",,2022-11-23,relisted,,
+7767816961,"Cameron, Katie","Black, Paul",2024-04-17,pending sale,,
+7767816961,"Cameron, Katie",,2024-05-01,relisted,,
+5030726098,"Pham, Karen","Porter, Sonia",2024-04-14,pending sale,,
+5030726098,"Pham, Karen","Porter, Sonia",2024-04-24,sold,1369155.55,3.918081257621886
+6261089207,"Miller, Alejandro","Bolton, Kristin",2021-10-24,pending rental,,
+6261089207,"Miller, Alejandro","Bolton, Kristin",2021-10-26,rented,3694.82,100
+6720145710,"Jones, Sarah","Martin, Kelli",2022-09-10,pending sale,,
+6720145710,"Jones, Sarah",,2022-10-05,relisted,,
+7838274707,"Olson, Andrea","Mitchell, Thomas",2021-07-09,pending sale,,
+7838274707,"Olson, Andrea",,2021-07-12,relisted,,
+1298770633,"Erickson, Dakota","Franco, Vincent",2023-05-18,pending sale,,
+1298770633,"Erickson, Dakota",,2023-06-13,relisted,,
+9230567878,"Garrett, Raymond","Martinez, Robert",2023-12-28,pending sale,,
+9230567878,"Garrett, Raymond","Martinez, Robert",2024-01-18,sold,161501.17,5.339872810280529
+9549689207,"Williams, Kristy","Cooley, Anthony",2023-11-12,pending rental,,
+9549689207,"Williams, Kristy","Cooley, Anthony",2023-11-28,rented,2311.55,100
+2578207427,"Leon, Patrick","Martinez, Kimberly",2021-08-11,pending sale,,
+2578207427,"Leon, Patrick",,2021-08-25,relisted,,
+3262393532,"Hopkins, Andrew","Winters, Grace",2024-01-13,pending sale,,
+3262393532,"Hopkins, Andrew","Winters, Grace",2024-02-09,sold,1049648.25,3.8956838399859506
+7349517952,"Mcgrath, Alison","Austin, Jennifer",2021-11-07,pending sale,,
+7349517952,"Mcgrath, Alison",,2021-12-03,relisted,,
+9396235294,"Hodges, Patrick","Jenkins, Melissa",2022-09-06,pending sale,,
+9396235294,"Hodges, Patrick","Jenkins, Melissa",2022-09-14,sold,184361.0,3.170826688184803
+9955273574,"Cordova, Virginia","Robertson, Adam",2022-12-28,pending sale,,
+9955273574,"Cordova, Virginia","Robertson, Adam",2023-01-27,sold,2064543.89,3.460266392449756
+2499552477,"Hines, Monica","Harris, Mason",2023-04-24,pending sale,,
+2499552477,"Hines, Monica","Harris, Mason",2023-05-01,sold,1484917.02,4.5427719708225425
+9454997781,"Murillo, Lydia","Moore, David",2021-05-21,pending rental,,
+9454997781,"Murillo, Lydia",,2021-06-01,relisted,,
+4637386401,"Carlson, Megan","Bernard, Francisco",2022-12-07,pending sale,,
+4637386401,"Carlson, Megan",,2022-12-11,relisted,,
+6891884807,"Murillo, Lydia","Frazier, Kimberly",2023-11-08,pending sale,,
+6891884807,"Murillo, Lydia",,2023-11-14,relisted,,
+4538817110,"Moore, Robert","Grimes, Emily",2023-12-15,pending sale,,
+4538817110,"Moore, Robert","Grimes, Emily",2024-01-07,sold,125145.28,5.943671483831862
+5302332867,"Ross, Molly","Kelley, Zachary",2021-07-15,pending rental,,
+5302332867,"Ross, Molly",,2021-07-19,relisted,,
+1321031354,"Lee, Melissa","Olson, Brandon",2024-02-25,pending sale,,
+1321031354,"Lee, Melissa",,2024-03-03,relisted,,
+1104640131,"Terry, Zachary","Foley, William",2021-10-19,pending rental,,
+1104640131,"Terry, Zachary",,2021-11-07,relisted,,
+4244638455,"Grant, Douglas","Roberson, Carlos",2023-08-01,pending rental,,
+4244638455,"Grant, Douglas","Roberson, Carlos",2023-08-18,rented,2192.79,100
+7471173810,"Garcia, Hannah","Webster, Garrett",2022-06-11,pending sale,,
+7471173810,"Garcia, Hannah","Webster, Garrett",2022-07-04,sold,1557480.04,5.6027029281718725
+9305686804,"Marshall, Nicole","Baker, Bridget",2022-08-24,pending sale,,
+9305686804,"Marshall, Nicole",,2022-09-17,relisted,,
+4818535001,"Gonzales, Catherine","Holt, Rebecca",2022-06-13,pending rental,,
+4818535001,"Gonzales, Catherine","Holt, Rebecca",2022-07-12,rented,5094.79,100
+6922845747,"Obrien, Stephanie","Roberts, Michelle",2024-03-22,pending sale,,
+6922845747,"Obrien, Stephanie","Roberts, Michelle",2024-04-12,sold,993686.89,3.126656016933504
+2054615749,"Cruz, Connie","Daniels, Victor",2023-12-12,pending rental,,
+2054615749,"Cruz, Connie",,2023-12-26,relisted,,
+6934195532,"Miller, Alejandro","Fuller, Daniel",2021-05-14,pending sale,,
+6934195532,"Miller, Alejandro","Fuller, Daniel",2021-05-22,sold,1626232.03,5.994335211062355
+8320502579,"Miller, Alejandro","Melton, Ashley",2021-07-04,pending rental,,
+8320502579,"Miller, Alejandro",,2021-07-16,relisted,,
+3909501309,"Frye, Angela","Russo, Samantha",2024-01-31,pending sale,,
+3909501309,"Frye, Angela",,2024-02-29,relisted,,
+4884288880,"Bell, Christopher","Hudson, Christopher",2023-08-28,pending sale,,
+4884288880,"Bell, Christopher",,2023-09-21,relisted,,
+3332946132,"Marshall, Nicole","Gonzales, Jennifer",2023-08-30,pending rental,,
+3332946132,"Marshall, Nicole",,2023-09-03,relisted,,
+7478240090,"Norris, Joshua","Smith, Justin",2023-08-30,pending sale,,
+7478240090,"Norris, Joshua","Smith, Justin",2023-09-20,sold,1229504.14,5.509729111970976
+6322668887,"Parker, Stephanie","Simpson, Peggy",2022-05-27,pending sale,,
+6322668887,"Parker, Stephanie",,2022-06-03,relisted,,
+2670390170,"Thomas, Kenneth","David, Miranda",2023-06-11,pending rental,,
+2670390170,"Thomas, Kenneth",,2023-06-30,relisted,,
+2785763636,"Watson, Anthony","Davila, Holly",2022-07-24,pending sale,,
+2785763636,"Watson, Anthony",,2022-08-14,relisted,,
+7404220301,"Jones, Sarah","Nguyen, Theodore",2023-03-29,pending rental,,
+7404220301,"Jones, Sarah","Nguyen, Theodore",2023-04-24,rented,3800.88,100
+1385863498,"Olsen, Ann","Hart, Brandon",2022-12-10,pending rental,,
+1385863498,"Olsen, Ann","Hart, Brandon",2022-12-19,rented,4619.07,100
+9486026893,"Meyer, Valerie","Morgan, Deanna",2021-06-01,pending sale,,
+9486026893,"Meyer, Valerie","Morgan, Deanna",2021-06-29,sold,1853644.15,4.218572556833606
+1230438908,"Morse, Randy","Mcdaniel, Jeffrey",2022-04-09,pending sale,,
+1230438908,"Morse, Randy","Mcdaniel, Jeffrey",2022-04-28,sold,1353721.26,3.3184217152299325
+9901288001,"Murillo, Lydia","Turner, Melissa",2023-07-09,pending rental,,
+9901288001,"Murillo, Lydia",,2023-07-28,relisted,,
+3270691712,"Romero, Diane","Wilcox, Timothy",2023-07-20,pending rental,,
+3270691712,"Romero, Diane","Wilcox, Timothy",2023-08-13,rented,3297.13,100
+9553939452,"Cruz, Connie","Smith, Scott",2022-04-11,pending sale,,
+9553939452,"Cruz, Connie","Smith, Scott",2022-05-02,sold,1016071.37,4.193563592649743
+8388878124,"Norris, Joshua","Sawyer, Michael",2023-04-11,pending rental,,
+8388878124,"Norris, Joshua","Sawyer, Michael",2023-04-17,rented,3219.86,100
+5268684515,"Hughes, Jennifer","Harding, Raymond",2021-10-22,pending sale,,
+5268684515,"Hughes, Jennifer",,2021-10-29,relisted,,
+1093922792,"Garrett, Raymond","Alexander, Robert",2023-05-13,pending sale,,
+1093922792,"Garrett, Raymond",,2023-06-11,relisted,,
+9796461700,"Mata, Miranda","Lara, Michael",2021-10-24,pending rental,,
+9796461700,"Mata, Miranda",,2021-11-09,relisted,,
+8972739308,"Perry, Cynthia","Carr, Dan",2023-12-01,pending sale,,
+8972739308,"Perry, Cynthia","Carr, Dan",2023-12-05,sold,439486.7,3.2651349524884012
+7524160810,"Brown, Ryan","Valenzuela, Brandon",2022-04-28,pending rental,,
+7524160810,"Brown, Ryan","Valenzuela, Brandon",2022-05-27,rented,4253.82,100
+7060255392,"Marshall, Nicole","Alexander, Laura",2023-11-22,pending rental,,
+7060255392,"Marshall, Nicole",,2023-12-18,relisted,,
+8101018455,"Murillo, Lydia","Vasquez, Jacqueline",2023-04-08,pending sale,,
+8101018455,"Murillo, Lydia",,2023-04-22,relisted,,
+6760778575,"Davis, Craig","Jimenez, Maria",2021-11-23,pending sale,,
+6760778575,"Davis, Craig","Jimenez, Maria",2021-12-06,sold,798393.38,3.155040172280941
+9411822329,"Sims, Roberto","Alvarez, Tyler",2022-11-27,pending rental,,
+9411822329,"Sims, Roberto","Alvarez, Tyler",2022-12-24,rented,2921.37,100
+6734628001,"Barry, Megan","Wall, Gabriel",2022-08-19,pending rental,,
+6734628001,"Barry, Megan",,2022-09-06,relisted,,
+1351781542,"Watson, Anthony","Curtis, Patrick",2021-06-06,pending sale,,
+1351781542,"Watson, Anthony","Curtis, Patrick",2021-06-18,sold,915104.78,3.821359670182273
+2102813362,"Hill, Allen","Williamson, Tyrone",2023-07-27,pending sale,,
+2102813362,"Hill, Allen","Williamson, Tyrone",2023-08-09,sold,686196.84,3.3873681642037634
+8389498935,"Miller, Alejandro","Smith, Courtney",2023-10-07,pending sale,,
+8389498935,"Miller, Alejandro",,2023-10-26,relisted,,
+1128176994,"Bradley, Michael","Wilkinson, Juan",2023-06-23,pending sale,,
+1128176994,"Bradley, Michael",,2023-07-23,relisted,,
+4864650483,"Frye, Angela","Reid, Timothy",2024-03-09,pending rental,,
+4864650483,"Frye, Angela","Reid, Timothy",2024-03-22,rented,3722.96,100
+5285049546,"Fry, Joseph","Tucker, Michael",2022-08-27,pending rental,,
+5285049546,"Fry, Joseph","Tucker, Michael",2022-09-07,rented,4186.53,100
+5582053639,"Taylor, Richard","Walker, Rodney",2022-07-26,pending sale,,
+5582053639,"Taylor, Richard",,2022-07-31,relisted,,
+3019641457,"Zimmerman, Melissa","Baker, Bridget",2023-08-25,pending sale,,
+3019641457,"Zimmerman, Melissa",,2023-08-26,relisted,,
+9695416312,"Romero, Diane","Johnson, Dustin",2021-12-11,pending sale,,
+9695416312,"Romero, Diane",,2022-01-08,relisted,,
+5094598910,"Marshall, Nicole","Greene, Adrienne",2022-03-28,pending sale,,
+5094598910,"Marshall, Nicole",,2022-04-11,relisted,,
+7676905358,"Cordova, Virginia","Smith, Michael",2021-09-11,pending rental,,
+7676905358,"Cordova, Virginia",,2021-09-26,relisted,,
+4536765319,"Coffey, Patrick","Johnson, Timothy",2022-01-28,pending sale,,
+4536765319,"Coffey, Patrick","Johnson, Timothy",2022-02-09,sold,1653785.7,4.68936726240343
+4504696225,"Wise, David","Smith, Malik",2023-01-18,pending rental,,
+4504696225,"Wise, David",,2023-01-26,relisted,,
+1898549953,"Roman, Gabriela","Jenkins, Robert",2022-09-16,pending sale,,
+1898549953,"Roman, Gabriela","Jenkins, Robert",2022-10-04,sold,740132.66,3.700534521278136
+6970693475,"Clements, Derek","Perez, Kyle",2022-06-08,pending sale,,
+6970693475,"Clements, Derek","Perez, Kyle",2022-06-10,sold,560952.9,3.11076781579119
+6451127039,"Bradley, Michael","Hart, Emily",2023-07-03,pending rental,,
+6451127039,"Bradley, Michael",,2023-07-11,relisted,,
+6728918361,"Shaffer, Jacqueline","James, Sonia",2023-03-17,pending rental,,
+6728918361,"Shaffer, Jacqueline","James, Sonia",2023-03-24,rented,2079.11,100
+4458034780,"Zimmerman, Melissa","Shannon, Richard",2022-05-14,pending rental,,
+4458034780,"Zimmerman, Melissa","Shannon, Richard",2022-06-13,rented,3975.01,100
+9698257382,"Wood, Katelyn","Cook, George",2024-03-14,pending sale,,
+9698257382,"Wood, Katelyn","Cook, George",2024-04-03,sold,995242.85,3.1055873832511653
+2638728967,"Miller, Alejandro","Phillips, Carl",2023-03-03,pending sale,,
+2638728967,"Miller, Alejandro","Phillips, Carl",2023-03-17,sold,441222.74,3.305876106698766
+3844568632,"Marshall, Nicole","Smith, Michael",2021-06-01,pending sale,,
+3844568632,"Marshall, Nicole",,2021-06-16,relisted,,
+9224117722,"Wheeler, Michelle","Mclaughlin, Jennifer",2022-12-27,pending rental,,
+9224117722,"Wheeler, Michelle","Mclaughlin, Jennifer",2023-01-14,rented,2593.86,100
+7205486921,"Willis, Stephanie","Fischer, Lisa",2022-11-13,pending rental,,
+7205486921,"Willis, Stephanie",,2022-11-30,relisted,,
+9181362183,"Patton, Colton","Ortega, Benjamin",2022-02-10,pending sale,,
+9181362183,"Patton, Colton",,2022-03-07,relisted,,
+2347058726,"Garcia, Hannah","Meyer, Valerie",2023-03-15,pending sale,,
+2347058726,"Garcia, Hannah",,2023-03-31,relisted,,
+9572743800,"Williams, Kristy","Buchanan, Philip",2021-07-07,pending sale,,
+9572743800,"Williams, Kristy",,2021-07-29,relisted,,
+3328240810,"Paul, Ashley","Patrick, Michele",2023-06-02,pending rental,,
+3328240810,"Paul, Ashley","Patrick, Michele",2023-06-28,rented,4970.64,100
+8242571301,"Grant, Douglas","Gibbs, Angela",2023-06-11,pending rental,,
+8242571301,"Grant, Douglas","Gibbs, Angela",2023-06-21,rented,2875.79,100
+6397177593,"Jones, Sarah","Galloway, Angela",2023-07-06,pending rental,,
+6397177593,"Jones, Sarah",,2023-07-28,relisted,,
+3790147047,"Skinner, Aaron","Vazquez, Heather",2023-04-10,pending rental,,
+3790147047,"Skinner, Aaron","Vazquez, Heather",2023-04-18,rented,3848.91,100
+8583859458,"Smith, Joshua","Alvarez, Rebecca",2022-11-09,pending sale,,
+8583859458,"Smith, Joshua","Alvarez, Rebecca",2022-11-12,sold,438711.22,4.658662552137223
+7317473974,"Holland, Kristy","Bennett, Stephanie",2022-10-17,pending sale,,
+7317473974,"Holland, Kristy",,2022-11-14,relisted,,
+4214713307,"Mcgrath, Alison","Gonzales, Patrick",2021-08-18,pending rental,,
+4214713307,"Mcgrath, Alison",,2021-08-30,relisted,,
+3395952851,"Wheeler, Michelle","Chung, Cassandra",2021-08-17,pending rental,,
+3395952851,"Wheeler, Michelle",,2021-08-18,relisted,,
+4286024231,"Andrews, Faith","Thompson, Tammy",2022-11-23,pending sale,,
+4286024231,"Andrews, Faith","Thompson, Tammy",2022-12-17,sold,1538788.81,4.848325283462257
+1760349768,"Bright, Robert","Velazquez, Malik",2023-09-08,pending rental,,
+1760349768,"Bright, Robert","Velazquez, Malik",2023-10-05,rented,2025.71,100
+1715968843,"Diaz, Bianca","Kim, Brittany",2023-05-16,pending rental,,
+1715968843,"Diaz, Bianca",,2023-06-09,relisted,,
+7194795052,"Perry, Cynthia","Davila, Holly",2021-06-04,pending sale,,
+7194795052,"Perry, Cynthia",,2021-06-12,relisted,,
+5795803260,"Campbell, Christopher","Olsen, Nicole",2023-04-22,pending sale,,
+5795803260,"Campbell, Christopher",,2023-05-04,relisted,,
+6362898159,"Cameron, Katie","Fernandez, Tyler",2022-09-08,pending sale,,
+6362898159,"Cameron, Katie","Fernandez, Tyler",2022-10-03,sold,1913560.29,5.640019831665629
+4564193601,"Hodges, Patrick","Hancock, Rebecca",2023-11-20,pending rental,,
+4564193601,"Hodges, Patrick",,2023-11-24,relisted,,
+3975814583,"Willis, Stephanie","Perez, Bonnie",2024-05-01,pending rental,,
+3975814583,"Willis, Stephanie","Perez, Bonnie",2024-05-10,rented,4920.2,100
+8937688944,"Gonzales, Catherine","Krueger, Brian",2023-01-22,pending rental,,
+8937688944,"Gonzales, Catherine","Krueger, Brian",2023-01-29,rented,2851.37,100
+3260598147,"Carlson, Megan","Miller, Michael",2021-07-16,pending sale,,
+3260598147,"Carlson, Megan","Miller, Michael",2021-08-13,sold,778743.66,3.7237094012227394
+7188467880,"Thomas, Kenneth","Barrera, Michael",2021-08-07,pending sale,,
+7188467880,"Thomas, Kenneth","Barrera, Michael",2021-08-18,sold,985731.47,4.706291800956063
+3688491472,"Bradley, Michael","Hammond, Omar",2024-01-09,pending sale,,
+3688491472,"Bradley, Michael",,2024-01-13,relisted,,
+4345855194,"Greene, Courtney","Jensen, Lynn",2021-08-14,pending rental,,
+4345855194,"Greene, Courtney","Jensen, Lynn",2021-08-19,rented,5096.76,100
+5574984799,"Cox, Kathleen","Bryan, Jody",2021-11-23,pending sale,,
+5574984799,"Cox, Kathleen","Bryan, Jody",2021-12-17,sold,2114757.99,5.736607113336493
+9099579456,"Vaughan, Robert","Morris, Ian",2022-04-04,pending sale,,
+9099579456,"Vaughan, Robert","Morris, Ian",2022-05-01,sold,505726.53,5.817489357751197
+9792982315,"Walker, Aaron","Murphy, Blake",2024-03-18,pending sale,,
+9792982315,"Walker, Aaron",,2024-03-24,relisted,,
+5110463140,"Olson, Andrea","Green, Michael",2023-03-24,pending rental,,
+5110463140,"Olson, Andrea",,2023-04-19,relisted,,
+9443768210,"Garcia, Christopher","Clark, David",2021-08-17,pending sale,,
+9443768210,"Garcia, Christopher","Clark, David",2021-08-29,sold,1781113.24,5.317592627736477
+1491963486,"Mccann, Wendy","Fisher, Matthew",2021-09-11,pending sale,,
+1491963486,"Mccann, Wendy",,2021-10-08,relisted,,
+8181431696,"Jones, Sarah","Galvan, Reginald",2023-02-15,pending rental,,
+8181431696,"Jones, Sarah","Galvan, Reginald",2023-03-15,rented,3003.6,100
+2222824664,"Wheeler, Michelle","Edwards, Wanda",2022-06-07,pending rental,,
+2222824664,"Wheeler, Michelle",,2022-06-16,relisted,,
+5691965763,"Koch, Luis","Allen, Shirley",2023-05-02,pending rental,,
+5691965763,"Koch, Luis",,2023-05-05,relisted,,
+5520698574,"Meyer, Valerie","Armstrong, Christopher",2022-04-14,pending sale,,
+5520698574,"Meyer, Valerie","Armstrong, Christopher",2022-04-23,sold,1948222.62,4.5805871881639515
+1925569020,"Watson, Samantha","Mathews, Steven",2024-02-29,pending rental,,
+1925569020,"Watson, Samantha","Mathews, Steven",2024-03-18,rented,5300.97,100
+7463117378,"Willis, Stephanie","Reid, Timothy",2023-07-03,pending rental,,
+7463117378,"Willis, Stephanie",,2023-07-26,relisted,,
+9328896933,"Cruz, Connie","Howard, Kyle",2021-06-20,pending sale,,
+9328896933,"Cruz, Connie","Howard, Kyle",2021-07-07,sold,2163346.27,5.884084812115204
+4427362184,"Meyer, Valerie","Lyons, Daniel",2021-06-30,pending rental,,
+4427362184,"Meyer, Valerie",,2021-07-13,relisted,,
+5851651301,"Bradley, Michael","Small, Dennis",2024-05-03,pending rental,,
+5851651301,"Bradley, Michael",,2024-05-11,relisted,,
+2813459725,"Rios, Mary","Davis, Joseph",2022-04-15,pending rental,,
+2813459725,"Rios, Mary","Davis, Joseph",2022-04-16,rented,3452.76,100
+3651778050,"Brown, Ryan","Brown, Jerry",2023-10-09,pending rental,,
+3651778050,"Brown, Ryan","Brown, Jerry",2023-11-02,rented,1657.85,100
+9024622346,"Miller, Danielle","Nichols, Isaac",2023-04-05,pending rental,,
+9024622346,"Miller, Danielle","Nichols, Isaac",2023-04-17,rented,2309.46,100
+5531287440,"Davis, Craig","Webb, Erica",2021-09-18,pending sale,,
+5531287440,"Davis, Craig","Webb, Erica",2021-09-19,sold,2188331.73,3.17879632337433
+7524223587,"Mccann, Wendy","Huang, Richard",2024-02-22,pending sale,,
+7524223587,"Mccann, Wendy",,2024-03-01,relisted,,
+7834746786,"Cruz, Connie","Vaughan, Antonio",2024-01-15,pending rental,,
+7834746786,"Cruz, Connie","Vaughan, Antonio",2024-02-02,rented,3617.34,100
+4288821698,"Meyer, Valerie","Owens, Bryan",2021-11-18,pending sale,,
+4288821698,"Meyer, Valerie",,2021-11-23,relisted,,
+2643550874,"Olson, Andrea","Daniels, Matthew",2023-12-15,pending rental,,
+2643550874,"Olson, Andrea","Daniels, Matthew",2023-12-17,rented,4789.71,100
+5576100411,"White, Gregory","Anderson, Jacob",2023-04-22,pending sale,,
+5576100411,"White, Gregory",,2023-04-24,relisted,,
+2724784141,"Adams, Ashley","Moore, Cynthia",2022-02-01,pending rental,,
+2724784141,"Adams, Ashley","Moore, Cynthia",2022-02-05,rented,4999.98,100
+4824022936,"Bradley, Michael","Quinn, Brian",2022-01-28,pending rental,,
+4824022936,"Bradley, Michael","Quinn, Brian",2022-02-10,rented,2182.09,100
+3997291431,"Bradley, Michael","Fitzgerald, Michael",2022-08-19,pending rental,,
+3997291431,"Bradley, Michael","Fitzgerald, Michael",2022-08-25,rented,4290.17,100
+9131773229,"Garrett, Raymond","Sweeney, Michael",2023-05-19,pending rental,,
+9131773229,"Garrett, Raymond",,2023-05-31,relisted,,
+6227563700,"Miller, Alejandro","Jenkins, Marissa",2024-04-02,pending rental,,
+6227563700,"Miller, Alejandro","Jenkins, Marissa",2024-05-01,rented,4583.69,100
+8715354792,"Garcia, Christopher","Monroe, Lance",2021-06-19,pending rental,,
+8715354792,"Garcia, Christopher","Monroe, Lance",2021-06-20,rented,4842.83,100
+9573347188,"Meyer, Valerie","Williams, Andrea",2022-11-10,pending rental,,
+9573347188,"Meyer, Valerie",,2022-12-04,relisted,,
+2812024162,"Vargas, Leah","Wilson, Tonya",2022-02-28,pending rental,,
+2812024162,"Vargas, Leah","Wilson, Tonya",2022-03-03,rented,4913.06,100
+1449756169,"Mcguire, Jeanette","Wallace, Bryan",2021-07-27,pending rental,,
+1449756169,"Mcguire, Jeanette","Wallace, Bryan",2021-08-08,rented,5037.83,100
+6335208851,"Grant, Douglas","Barrett, Tina",2022-02-11,pending rental,,
+6335208851,"Grant, Douglas",,2022-03-12,relisted,,
+9281505562,"Coffey, Patrick","Jackson, Ryan",2022-10-09,pending rental,,
+9281505562,"Coffey, Patrick",,2022-10-28,relisted,,
+4988749825,"Watson, Anthony","Wallace, Michael",2023-10-08,pending sale,,
+4988749825,"Watson, Anthony",,2023-10-23,relisted,,
+3072558006,"Roman, Gabriela","Daniels, Matthew",2021-12-06,pending rental,,
+3072558006,"Roman, Gabriela","Daniels, Matthew",2021-12-23,rented,3716.39,100
+6615929119,"Coffey, Patrick","Wright, Tony",2022-02-02,pending rental,,
+6615929119,"Coffey, Patrick","Wright, Tony",2022-02-15,rented,3158.23,100
+9164911878,"Mata, Miranda","French, Amber",2024-01-25,pending rental,,
+9164911878,"Mata, Miranda",,2024-02-11,relisted,,
+7301835854,"Ross, Molly","Jacobs, Traci",2022-12-25,pending rental,,
+7301835854,"Ross, Molly","Jacobs, Traci",2023-01-12,rented,2261.38,100
+3379448991,"Collier, James","Mcdaniel, Jeffrey",2024-03-05,pending rental,,
+3379448991,"Collier, James","Mcdaniel, Jeffrey",2024-03-24,rented,4547.18,100
+9232248396,"Diaz, Bianca","Hill, James",2021-12-08,pending sale,,
+9232248396,"Diaz, Bianca",,2021-12-30,relisted,,
+1087279822,"Lee, Melissa","Santiago, Kevin",2022-12-17,pending rental,,
+1087279822,"Lee, Melissa",,2023-01-02,relisted,,
+4523205563,"Collins, Briana","David, Matthew",2023-09-22,pending sale,,
+4523205563,"Collins, Briana","David, Matthew",2023-10-22,sold,918496.03,4.215608899167658
+3928234182,"Burton, Tina","Mccarthy, Brittany",2024-02-05,pending sale,,
+3928234182,"Burton, Tina",,2024-02-11,relisted,,
+7707295956,"Grant, Douglas","Rose, Angela",2024-02-17,pending rental,,
+7707295956,"Grant, Douglas","Rose, Angela",2024-03-08,rented,3504.79,100
+9909051811,"Olsen, Ann","Buchanan, Philip",2023-08-13,pending rental,,
+9909051811,"Olsen, Ann","Buchanan, Philip",2023-09-05,rented,4738.79,100
+3131846285,"Barnes, Michael","Hernandez, Donna",2024-03-16,pending rental,,
+3131846285,"Barnes, Michael",,2024-04-08,relisted,,
+1465325036,"Willis, Stephanie","Jones, Daniel",2021-11-14,pending sale,,
+1465325036,"Willis, Stephanie","Jones, Daniel",2021-11-20,sold,1432867.59,4.1305925809381066
+8567043605,"Carlson, Megan","Kim, Brittany",2023-10-31,pending rental,,
+8567043605,"Carlson, Megan",,2023-11-22,relisted,,
+4577226049,"Garcia, Christopher","Dalton, Linda",2021-07-24,pending sale,,
+4577226049,"Garcia, Christopher",,2021-07-27,relisted,,
+3586630020,"Barrett, Joy","Stevens, Caitlin",2022-11-25,pending sale,,
+3586630020,"Barrett, Joy",,2022-12-11,relisted,,
+3596633741,"Skinner, Aaron","Davis, Ronald",2024-03-30,pending rental,,
+3596633741,"Skinner, Aaron","Davis, Ronald",2024-04-10,rented,5929.72,100
+9826731289,"Garcia, Craig","Cox, Dawn",2021-09-16,pending sale,,
+9826731289,"Garcia, Craig","Cox, Dawn",2021-10-05,sold,2054022.38,4.61654515206053
+9061283354,"Galvan, Alyssa","Olson, Sergio",2022-08-04,pending rental,,
+9061283354,"Galvan, Alyssa","Olson, Sergio",2022-08-27,rented,4811.08,100
+7124331315,"Diaz, Bianca","Stevens, Miguel",2022-10-03,pending rental,,
+7124331315,"Diaz, Bianca",,2022-10-11,relisted,,
+8237538153,"Moore, Robert","Robinson, Annette",2023-07-19,pending rental,,
+8237538153,"Moore, Robert",,2023-08-11,relisted,,
+6775598740,"Campos, Michael","Rogers, Heather",2023-09-01,pending rental,,
+6775598740,"Campos, Michael","Rogers, Heather",2023-10-01,rented,3397.39,100
+4124983419,"Barrett, Joy","Newton, Tiffany",2021-07-28,pending sale,,
+4124983419,"Barrett, Joy",,2021-08-20,relisted,,
+5172823966,"Mcguire, Jeanette","Diaz, Daniel",2021-09-17,pending rental,,
+5172823966,"Mcguire, Jeanette",,2021-09-18,relisted,,
+8519239722,"Simpson, Christina","Jordan, Mackenzie",2021-12-26,pending rental,,
+8519239722,"Simpson, Christina","Jordan, Mackenzie",2022-01-05,rented,2850.82,100
+8144038917,"Mcgrath, Alison","Miller, Gina",2022-01-07,pending rental,,
+8144038917,"Mcgrath, Alison",,2022-01-18,relisted,,
+6341597502,"Barry, Megan","Allen, Robert",2023-11-10,pending rental,,
+6341597502,"Barry, Megan",,2023-11-20,relisted,,
+5849573785,"Watson, Anthony","Sanchez, Roger",2022-05-01,pending rental,,
+5849573785,"Watson, Anthony","Sanchez, Roger",2022-05-05,rented,1776.47,100
+4116410505,"Collier, James","Gray, Michael",2021-05-19,pending rental,,
+4116410505,"Collier, James",,2021-06-02,relisted,,
+4232514916,"Marshall, Nicole","Johnston, Beth",2022-11-11,pending rental,,
+4232514916,"Marshall, Nicole","Johnston, Beth",2022-11-12,rented,2952.83,100
+4326958508,"Barnes, Michael","Sanchez, Roger",2023-12-24,pending sale,,
+4326958508,"Barnes, Michael",,2024-01-20,relisted,,
+7327066036,"Lowery, Michael","Norton, Sarah",2024-04-27,pending rental,,
+7327066036,"Lowery, Michael","Norton, Sarah",2024-05-09,rented,4223.28,100
+2993933200,"Kane, Diana","Alexander, Paul",2024-03-22,pending rental,,
+2993933200,"Kane, Diana",,2024-04-09,relisted,,
+6262906248,"Anderson, Joseph","Robinson, Angelica",2021-11-25,pending sale,,
+6262906248,"Anderson, Joseph",,2021-12-12,relisted,,
+5839296151,"Watson, Anthony","Rios, Antonio",2022-08-01,pending sale,,
+5839296151,"Watson, Anthony","Rios, Antonio",2022-08-29,sold,610548.84,3.8020068984205144
+8737852610,"Cruz, Pamela","Chavez, Gerald",2023-10-06,pending rental,,
+8737852610,"Cruz, Pamela","Chavez, Gerald",2023-11-02,rented,5089.66,100
+5379202197,"Roberts, Sandra","Brown, Kathleen",2022-07-08,pending sale,,
+5379202197,"Roberts, Sandra",,2022-07-17,relisted,,
+5766534532,"Ross, Patricia","Vargas, Michelle",2024-02-27,pending rental,,
+5766534532,"Ross, Patricia","Vargas, Michelle",2024-03-21,rented,3590.45,100
+2913874830,"Coffey, Patrick","Evans, Renee",2021-06-16,pending sale,,
+2913874830,"Coffey, Patrick",,2021-07-01,relisted,,
+1022498034,"Sims, Roberto","Callahan, Rebecca",2024-02-19,pending sale,,
+1022498034,"Sims, Roberto","Callahan, Rebecca",2024-03-16,sold,757014.4,5.197008364926125
+6613287091,"Shaw, Thomas","Martin, John",2023-05-13,pending rental,,
+6613287091,"Shaw, Thomas",,2023-05-15,relisted,,
+6629438033,"Lewis, Kara","Reid, Timothy",2022-01-14,pending rental,,
+6629438033,"Lewis, Kara",,2022-02-10,relisted,,
+3727458948,"Hines, Monica","Cox, Megan",2022-12-13,pending sale,,
+3727458948,"Hines, Monica",,2022-12-17,relisted,,
+4303847470,"Olson, Andrea","Williams, Megan",2022-01-14,pending rental,,
+4303847470,"Olson, Andrea",,2022-01-16,relisted,,
+1661494598,"Obrien, Stephanie","Adams, Tony",2021-08-28,pending rental,,
+1661494598,"Obrien, Stephanie",,2021-09-15,relisted,,
+2832276383,"Campbell, Christopher","Edwards, Wanda",2022-10-13,pending rental,,
+2832276383,"Campbell, Christopher",,2022-11-03,relisted,,
+6376431051,"Adams, Ashley","Francis, Derek",2023-04-09,pending rental,,
+6376431051,"Adams, Ashley","Francis, Derek",2023-04-18,rented,4174.97,100
+9419091976,"Howard, Katherine","Webb, James",2021-08-30,pending sale,,
+9419091976,"Howard, Katherine","Webb, James",2021-09-17,sold,762885.33,3.184793920911512
+9372928878,"Simpson, Christina","Patterson, Lauren",2022-09-03,pending rental,,
+9372928878,"Simpson, Christina","Patterson, Lauren",2022-09-24,rented,2482.4,100
+9736093507,"Andrews, Faith","Pena, Timothy",2021-05-25,pending rental,,
+9736093507,"Andrews, Faith","Pena, Timothy",2021-05-30,rented,2820.41,100
+7812454509,"Norris, Joshua","Cox, Dawn",2022-01-23,pending sale,,
+7812454509,"Norris, Joshua","Cox, Dawn",2022-02-12,sold,1904612.29,4.778689327608797
+4610054580,"Burton, Tina","Phillips, Antonio",2022-08-04,pending sale,,
+4610054580,"Burton, Tina","Phillips, Antonio",2022-08-09,sold,1648162.72,4.085095431628357
+8218635777,"Watson, Samantha","Harris, Jacqueline",2021-05-29,pending sale,,
+8218635777,"Watson, Samantha","Harris, Jacqueline",2021-06-24,sold,1485047.16,4.711415304557729
+7462434623,"Lewis, Kara","Fernandez, Tyler",2021-10-24,pending rental,,
+7462434623,"Lewis, Kara",,2021-11-15,relisted,,
+6170721704,"Lopez, Katherine","Robinson, Annette",2022-10-20,pending sale,,
+6170721704,"Lopez, Katherine",,2022-11-03,relisted,,
+4441804088,"Klein, Brian","Rogers, William",2023-12-29,pending rental,,
+4441804088,"Klein, Brian",,2024-01-15,relisted,,
+9372220521,"Cox, Kathleen","Thomas, Edward",2022-01-28,pending rental,,
+9372220521,"Cox, Kathleen","Thomas, Edward",2022-01-31,rented,4341.68,100
+4154723145,"Shaw, Thomas","Kramer, Dakota",2023-07-01,pending sale,,
+4154723145,"Shaw, Thomas","Kramer, Dakota",2023-07-31,sold,425518.87,5.753898316453329
+4070817807,"Roberts, Sandra","Roth, Joanna",2023-01-09,pending rental,,
+4070817807,"Roberts, Sandra","Roth, Joanna",2023-01-29,rented,5485.23,100
+3020128215,"Cruz, Pamela","Mora, Andrea",2023-09-09,pending sale,,
+3020128215,"Cruz, Pamela","Mora, Andrea",2023-10-04,sold,889110.59,3.0588594086956586
+6722924505,"Cox, Kathleen","Wilson, Jamie",2021-09-05,pending sale,,
+6722924505,"Cox, Kathleen",,2021-09-21,relisted,,
+1881058301,"Taylor, Richard","Walsh, Danny",2022-02-11,pending rental,,
+1881058301,"Taylor, Richard","Walsh, Danny",2022-03-06,rented,5128.79,100
+3285092425,"Wood, Maria","Pierce, Jessica",2022-11-20,pending rental,,
+3285092425,"Wood, Maria","Pierce, Jessica",2022-11-27,rented,3539.0,100
+6811944568,"Barrett, Joy","Rivas, Christopher",2022-07-22,pending sale,,
+6811944568,"Barrett, Joy",,2022-08-17,relisted,,
+9027426988,"Burton, Tina","Roberson, Carlos",2024-01-25,pending rental,,
+9027426988,"Burton, Tina","Roberson, Carlos",2024-02-04,rented,4854.25,100
+1547850734,"Obrien, Stephanie","Mclaughlin, Andrew",2021-12-14,pending sale,,
+1547850734,"Obrien, Stephanie","Mclaughlin, Andrew",2021-12-19,sold,1923386.83,3.5838314136932548
+3486318475,"Hill, Allen","Lopez, Scott",2022-09-23,pending sale,,
+3486318475,"Hill, Allen",,2022-10-14,relisted,,
+8972789393,"Olsen, Ann","Brown, Roberta",2023-12-19,pending sale,,
+8972789393,"Olsen, Ann",,2024-01-13,relisted,,
+1928854933,"Marshall, Nicole","Bryan, Jody",2024-01-23,pending sale,,
+1928854933,"Marshall, Nicole","Bryan, Jody",2024-02-09,sold,1233554.4,3.679055283025554
+4887757692,"Vargas, Leah","Vaughan, Antonio",2023-08-05,pending sale,,
+4887757692,"Vargas, Leah","Vaughan, Antonio",2023-09-01,sold,1855562.27,3.7280233111111634
+3742043261,"Shaw, Thomas","Gallagher, Christian",2024-01-22,pending sale,,
+3742043261,"Shaw, Thomas","Gallagher, Christian",2024-01-23,sold,1395060.4,3.494741269564029
+5660962862,"Vargas, Leah","Coleman, Logan",2024-04-04,pending sale,,
+5660962862,"Vargas, Leah","Coleman, Logan",2024-04-17,sold,1821306.02,4.171654003507788
+1410816893,"Terry, Zachary","Chapman, Harold",2023-11-14,pending sale,,
+1410816893,"Terry, Zachary",,2023-11-20,relisted,,
+3445711478,"Lewis, Kara","Contreras, Samantha",2022-07-16,pending sale,,
+3445711478,"Lewis, Kara",,2022-08-14,relisted,,
+7014904433,"Coffey, Patrick","Gill, Melissa",2021-09-21,pending sale,,
+7014904433,"Coffey, Patrick","Gill, Melissa",2021-10-07,sold,403816.49,5.4344923286319755
+9711102984,"Skinner, Aaron","Martinez, Margaret",2023-10-28,pending rental,,
+9711102984,"Skinner, Aaron","Martinez, Margaret",2023-11-04,rented,3131.3,100
+3507900510,"Carlson, Megan","Booker, Jamie",2021-04-25,pending rental,,
+3507900510,"Carlson, Megan","Booker, Jamie",2021-05-07,rented,4090.99,100
+9507777135,"Ross, Molly","King, Stephen",2023-11-05,pending rental,,
+9507777135,"Ross, Molly",,2023-11-10,relisted,,
+8990833231,"Holland, Kristy","Gray, Michael",2023-04-22,pending rental,,
+8990833231,"Holland, Kristy","Gray, Michael",2023-05-20,rented,4770.35,100
+6176083691,"Roberts, Sandra","Johnson, Dustin",2024-04-08,pending sale,,
+6176083691,"Roberts, Sandra",,2024-04-25,relisted,,
+3304563736,"Williams, Kristy","Anderson, Jacqueline",2024-02-10,pending sale,,
+3304563736,"Williams, Kristy","Anderson, Jacqueline",2024-02-25,sold,1721505.31,3.1574824332044678
+9046261033,"Bright, Robert","Mccormick, Raymond",2021-11-07,pending rental,,
+9046261033,"Bright, Robert",,2021-11-25,relisted,,
+9362428456,"Lowery, Michael","Patel, Mary",2022-03-16,pending rental,,
+9362428456,"Lowery, Michael",,2022-04-10,relisted,,
+8263258086,"Pham, Karen","Rubio, Howard",2023-07-09,pending rental,,
+8263258086,"Pham, Karen","Rubio, Howard",2023-08-07,rented,4231.25,100
+2497464311,"Barnes, Michael","Santiago, Justin",2021-12-23,pending rental,,
+2497464311,"Barnes, Michael","Santiago, Justin",2022-01-13,rented,2383.65,100
+1537176881,"Marshall, Nicole","Moore, Scott",2021-06-05,pending rental,,
+1537176881,"Marshall, Nicole",,2021-06-15,relisted,,
+2167609166,"Lee, Melissa","Craig, Scott",2021-09-07,pending rental,,
+2167609166,"Lee, Melissa","Craig, Scott",2021-09-19,rented,3360.52,100
+1049101238,"Evans, Teresa","Edwards, Andrew",2022-09-21,pending sale,,
+1049101238,"Evans, Teresa","Edwards, Andrew",2022-10-10,sold,1189664.53,4.912687492486872
+6227934478,"Gray, Christina","White, Lisa",2022-10-04,pending rental,,
+6227934478,"Gray, Christina",,2022-10-21,relisted,,
+3892314613,"Brown, Ryan","Davidson, Steven",2023-10-23,pending rental,,
+3892314613,"Brown, Ryan",,2023-11-14,relisted,,
+4215539951,"Ross, Molly","Christian, Lauren",2022-01-13,pending rental,,
+4215539951,"Ross, Molly","Christian, Lauren",2022-02-10,rented,5647.2,100
+6423898752,"Wood, Katelyn","Hansen, Jennifer",2023-07-22,pending sale,,
+6423898752,"Wood, Katelyn",,2023-08-20,relisted,,
+8035342008,"Vaughan, Robert","Moore, David",2022-01-22,pending sale,,
+8035342008,"Vaughan, Robert","Moore, David",2022-01-31,sold,1065313.3,5.0218849072131455
+3451565936,"Kane, Diana","Waller, Thomas",2024-04-21,pending sale,,
+3451565936,"Kane, Diana","Waller, Thomas",2024-05-20,sold,1559513.1,5.567852559178746
+8150995445,"Terry, Zachary","Gray, Kimberly",2021-11-03,pending sale,,
+8150995445,"Terry, Zachary",,2021-11-30,relisted,,
+5808216163,"Ross, Patricia","Young, Scott",2022-08-08,pending rental,,
+5808216163,"Ross, Patricia",,2022-08-31,relisted,,
+3864388211,"Sims, Roberto","Evans, Daniel",2023-07-19,pending rental,,
+3864388211,"Sims, Roberto","Evans, Daniel",2023-08-12,rented,3014.42,100
+3463999372,"Munoz, Paul","Davis, Ronald",2023-01-14,pending sale,,
+3463999372,"Munoz, Paul","Davis, Ronald",2023-01-31,sold,227351.09,3.7512106010394373
+3009030320,"Clements, Derek","Moore, Ronald",2024-04-08,pending sale,,
+3009030320,"Clements, Derek","Moore, Ronald",2024-04-22,sold,1834619.82,5.525336232436721
+2202440285,"Dodson, Rhonda","Thompson, Diana",2022-02-01,pending sale,,
+2202440285,"Dodson, Rhonda",,2022-02-03,relisted,,
+7564654153,"Watson, Anthony","Richard, Robert",2021-10-05,pending rental,,
+7564654153,"Watson, Anthony",,2021-10-24,relisted,,
+5105094247,"Garrett, Raymond","Lara, Michael",2023-03-22,pending sale,,
+5105094247,"Garrett, Raymond","Lara, Michael",2023-04-14,sold,1451045.47,5.788613818648266
+5638718559,"Barnes, Michael","Ramirez, Stephanie",2023-05-16,pending sale,,
+5638718559,"Barnes, Michael",,2023-05-24,relisted,,
+2617535240,"White, Gregory","Clark, Debbie",2023-08-04,pending sale,,
+2617535240,"White, Gregory","Clark, Debbie",2023-08-22,sold,1487235.98,3.708319775476581
+6485417922,"Lee, Melissa","Torres, Rachel",2021-05-20,pending rental,,
+6485417922,"Lee, Melissa",,2021-05-25,relisted,,
+5866152116,"Frye, Angela","Wright, Tony",2024-04-19,pending sale,,
+5866152116,"Frye, Angela",,2024-05-11,relisted,,
+3945006789,"Collier, James","Jones, Andrew",2023-12-13,pending rental,,
+3945006789,"Collier, James",,2023-12-21,relisted,,
+8807009538,"Gomez, Shannon","Young, Amy",2024-04-01,pending sale,,
+8807009538,"Gomez, Shannon",,2024-04-30,relisted,,
+8493005557,"Galvan, Alyssa","Martinez, Robert",2021-10-30,pending sale,,
+8493005557,"Galvan, Alyssa","Martinez, Robert",2021-11-08,sold,1969605.22,5.02733621871908
+8075119126,"Romero, Diane","Burns, Carrie",2023-07-29,pending sale,,
+8075119126,"Romero, Diane","Burns, Carrie",2023-08-18,sold,1333633.14,5.444058350498174
+2696987200,"Paul, Ashley","Martinez, Ryan",2022-07-21,pending sale,,
+2696987200,"Paul, Ashley",,2022-08-15,relisted,,
+8403229430,"Grant, Douglas","Russo, Lisa",2022-04-17,pending rental,,
+8403229430,"Grant, Douglas","Russo, Lisa",2022-04-29,rented,2755.68,100
+4578946712,"Saunders, Kimberly","Alexander, Laura",2023-10-11,pending sale,,
+4578946712,"Saunders, Kimberly",,2023-11-03,relisted,,
+6930953447,"Fry, Joseph","Newton, Tiffany",2023-01-03,pending sale,,
+6930953447,"Fry, Joseph","Newton, Tiffany",2023-02-02,sold,910665.14,5.161041385251416
+3662713164,"Hines, Monica","Harding, Raymond",2023-11-07,pending rental,,
+3662713164,"Hines, Monica",,2023-12-06,relisted,,
+5370285096,"Hill, Allen","Dorsey, Makayla",2022-07-17,pending rental,,
+5370285096,"Hill, Allen","Dorsey, Makayla",2022-07-26,rented,2843.5,100
+5952994832,"Hill, Allen","Bond, Anthony",2022-02-02,pending sale,,
+5952994832,"Hill, Allen","Bond, Anthony",2022-02-15,sold,1679103.24,4.189617443383451
+2816300466,"Brown, Ryan","Miller, Gina",2022-12-17,pending sale,,
+2816300466,"Brown, Ryan",,2022-12-18,relisted,,
+9859529509,"Sims, Roberto","Bennett, Bryan",2022-12-23,pending sale,,
+9859529509,"Sims, Roberto","Bennett, Bryan",2023-01-16,sold,779444.13,5.349637811594204
+2780338332,"Walsh, Timothy","Jacobs, Brandon",2021-11-09,pending sale,,
+2780338332,"Walsh, Timothy","Jacobs, Brandon",2021-11-22,sold,1076484.44,5.97545193044515
+4053990469,"Barnes, Michael","Zuniga, Danny",2022-03-01,pending rental,,
+4053990469,"Barnes, Michael",,2022-03-28,relisted,,
+1001240047,"Koch, Luis","Jenkins, Tracy",2021-05-07,pending sale,,
+1001240047,"Koch, Luis","Jenkins, Tracy",2021-05-16,sold,1976198.22,3.234276467414583
+9840180601,"Meyer, Valerie","Little, Tina",2021-05-12,pending sale,,
+9840180601,"Meyer, Valerie","Little, Tina",2021-06-10,sold,952180.04,3.459453372444109
+8359026182,"Gonzales, Catherine","Rogers, William",2023-04-17,pending sale,,
+8359026182,"Gonzales, Catherine","Rogers, William",2023-04-23,sold,444966.21,3.661627617698156
+8840708644,"Shaffer, Jacqueline","Campbell, Bradley",2021-12-29,pending rental,,
+8840708644,"Shaffer, Jacqueline","Campbell, Bradley",2021-12-31,rented,2154.98,100
+9957395803,"Davis, Craig","Davis, Latoya",2022-06-05,pending sale,,
+9957395803,"Davis, Craig","Davis, Latoya",2022-06-06,sold,1304452.67,4.514318950224892
+7047117189,"Wise, David","Gonzalez, Stephen",2023-07-08,pending sale,,
+7047117189,"Wise, David",,2023-07-22,relisted,,
+4957448836,"Frye, Angela","Fuller, Daniel",2021-11-05,pending sale,,
+4957448836,"Frye, Angela",,2021-11-06,relisted,,
+6570162202,"Bell, Christopher","Clay, Jason",2022-07-20,pending rental,,
+6570162202,"Bell, Christopher","Clay, Jason",2022-07-27,rented,3708.69,100
+2398598262,"Cameron, Katie","Shields, Cody",2022-09-14,pending rental,,
+2398598262,"Cameron, Katie",,2022-09-24,relisted,,
+6795714536,"Hill, Allen","Kim, Brittany",2022-09-17,pending rental,,
+6795714536,"Hill, Allen",,2022-10-04,relisted,,
+7525237548,"Evans, Teresa","Hughes, Lindsey",2023-09-30,pending sale,,
+7525237548,"Evans, Teresa","Hughes, Lindsey",2023-10-12,sold,1536737.69,4.327683383100345
+4613860428,"Rios, Mary","Mitchell, Gregory",2023-11-07,pending rental,,
+4613860428,"Rios, Mary",,2023-11-15,relisted,,
+8066422743,"Simpson, Christina","Pitts, Catherine",2022-04-12,pending sale,,
+8066422743,"Simpson, Christina",,2022-04-23,relisted,,
+1336055827,"Gomez, Shannon","Kennedy, Rachel",2023-05-06,pending rental,,
+1336055827,"Gomez, Shannon","Kennedy, Rachel",2023-05-13,rented,3537.0,100
+6677210934,"Garrett, Raymond","Davis, Latoya",2021-09-14,pending rental,,
+6677210934,"Garrett, Raymond",,2021-10-10,relisted,,
+1541145727,"Simpson, Christina","Little, Tina",2023-11-26,pending rental,,
+1541145727,"Simpson, Christina",,2023-12-03,relisted,,
+2912458676,"Ross, Patricia","Bowen, Eric",2022-03-20,pending sale,,
+2912458676,"Ross, Patricia",,2022-03-25,relisted,,
+7479446100,"White, Gregory","White, Julie",2021-10-05,pending sale,,
+7479446100,"White, Gregory",,2021-10-14,relisted,,
+6516230979,"Gomez, Shannon","Parker, Jerry",2021-05-28,pending sale,,
+6516230979,"Gomez, Shannon","Parker, Jerry",2021-06-14,sold,1654783.12,3.638300008879235
+1868192625,"White, Gregory","Hernandez, Lori",2023-03-13,pending rental,,
+1868192625,"White, Gregory",,2023-03-17,relisted,,
+3065060605,"Howard, Katherine","Franco, Vincent",2022-06-21,pending sale,,
+3065060605,"Howard, Katherine","Franco, Vincent",2022-07-08,sold,1527653.97,5.734859631109651
+5990817503,"Vaughan, Robert","Andrews, Mandy",2021-10-19,pending rental,,
+5990817503,"Vaughan, Robert",,2021-10-24,relisted,,
+1421942427,"Carlson, Megan","Smith, Michael",2022-12-10,pending sale,,
+1421942427,"Carlson, Megan","Smith, Michael",2022-12-23,sold,512643.95,4.117236350368561
+6863035781,"Lee, Melissa","Watson, Anita",2023-10-10,pending sale,,
+6863035781,"Lee, Melissa",,2023-11-08,relisted,,
+6104911198,"Lewis, Kara","Williams, Shelia",2024-03-23,pending sale,,
+6104911198,"Lewis, Kara",,2024-04-08,relisted,,
+9887599585,"Munoz, Paul","Mendoza, Ashley",2023-11-30,pending sale,,
+9887599585,"Munoz, Paul","Mendoza, Ashley",2023-12-09,sold,1078576.43,4.799457660488666
+3856071067,"Kane, Diana","Vang, Jacqueline",2024-01-13,pending rental,,
+3856071067,"Kane, Diana","Vang, Jacqueline",2024-01-25,rented,5261.17,100
+3116209388,"Wheeler, Michelle","Kline, Ricky",2024-03-20,pending sale,,
+3116209388,"Wheeler, Michelle","Kline, Ricky",2024-03-25,sold,1293771.49,5.605619665000804
+7447768587,"Campos, Michael","Greene, Adrienne",2022-05-19,pending sale,,
+7447768587,"Campos, Michael",,2022-05-24,relisted,,
+1788653824,"Greene, Courtney","Robinson, Mark",2021-09-29,pending sale,,
+1788653824,"Greene, Courtney",,2021-10-20,relisted,,
+7691081314,"Roberts, Sandra","Lee, Nicole",2022-10-01,pending rental,,
+7691081314,"Roberts, Sandra","Lee, Nicole",2022-10-16,rented,1988.71,100
+5400743483,"Smith, Joshua","Sanchez, Connie",2024-01-29,pending sale,,
+5400743483,"Smith, Joshua","Sanchez, Connie",2024-02-23,sold,199521.73,5.543553249271334
+2650309329,"Brown, Ryan","Bradshaw, Susan",2023-08-15,pending rental,,
+2650309329,"Brown, Ryan",,2023-08-30,relisted,,
+6341603230,"Klein, Brian","Olsen, Nicole",2022-12-24,pending rental,,
+6341603230,"Klein, Brian","Olsen, Nicole",2023-01-03,rented,4507.41,100
+6447129763,"Cameron, Katie","Craig, James",2022-11-30,pending sale,,
+6447129763,"Cameron, Katie","Craig, James",2022-12-05,sold,1982936.35,3.518053405313001
+8682389684,"Norris, Joshua","Ortiz, John",2021-08-06,pending rental,,
+8682389684,"Norris, Joshua","Ortiz, John",2021-08-23,rented,3993.14,100
+7448281143,"Patton, Colton","Newton, Tiffany",2023-08-27,pending sale,,
+7448281143,"Patton, Colton","Newton, Tiffany",2023-09-02,sold,631198.17,5.2658220533737214
+3864811073,"Taylor, Jessica","Cortez, Christopher",2024-02-24,pending rental,,
+3864811073,"Taylor, Jessica","Cortez, Christopher",2024-03-07,rented,3818.57,100
+8273008739,"Simpson, Christina","Miller, Suzanne",2022-01-15,pending rental,,
+8273008739,"Simpson, Christina","Miller, Suzanne",2022-01-25,rented,1611.25,100
+6656801273,"Brown, John","Wright, Tony",2021-05-26,pending sale,,
+6656801273,"Brown, John",,2021-06-12,relisted,,
+5466556689,"Garrett, Raymond","Spencer, Jessica",2021-06-13,pending rental,,
+5466556689,"Garrett, Raymond","Spencer, Jessica",2021-06-16,rented,4298.65,100
+3531691656,"Barry, Megan","Johnson, Connie",2023-03-06,pending rental,,
+3531691656,"Barry, Megan",,2023-03-22,relisted,,
+8964386163,"Watson, Samantha","Walton, Martha",2022-03-04,pending rental,,
+8964386163,"Watson, Samantha",,2022-03-10,relisted,,
+7546891776,"Roman, Gabriela","Miller, Kristin",2023-01-10,pending sale,,
+7546891776,"Roman, Gabriela","Miller, Kristin",2023-01-29,sold,1151484.14,5.333413099019667
+3967285066,"Watson, Samantha","Sweeney, Monica",2024-02-11,pending sale,,
+3967285066,"Watson, Samantha","Sweeney, Monica",2024-02-28,sold,499439.29,4.004159866355624
+9516636801,"Meyer, Valerie","Harris, Taylor",2022-03-09,pending sale,,
+9516636801,"Meyer, Valerie",,2022-03-19,relisted,,
+6506357335,"Mata, Miranda","Woodward, Brittney",2023-01-29,pending sale,,
+6506357335,"Mata, Miranda",,2023-02-22,relisted,,
+8796315363,"Cameron, Katie","Oconnell, Richard",2022-04-04,pending sale,,
+8796315363,"Cameron, Katie","Oconnell, Richard",2022-05-03,sold,692055.54,5.370364955846673
+7579345427,"Parker, Stephanie","Williams, Andrea",2022-01-02,pending sale,,
+7579345427,"Parker, Stephanie",,2022-01-08,relisted,,
+2073667683,"Patton, Colton","Jimenez, Michelle",2022-11-28,pending sale,,
+2073667683,"Patton, Colton",,2022-12-01,relisted,,
+8695654998,"Pham, Karen","Sanchez, Lisa",2022-03-30,pending sale,,
+8695654998,"Pham, Karen","Sanchez, Lisa",2022-04-10,sold,1940469.17,4.106968751006054
+4810656392,"Garcia, Christopher","Matthews, Justin",2022-06-12,pending sale,,
+4810656392,"Garcia, Christopher",,2022-06-28,relisted,,
+7403218756,"Meyer, Valerie","Riley, Cody",2022-04-01,pending rental,,
+7403218756,"Meyer, Valerie",,2022-04-03,relisted,,
+8604285161,"Roman, Gabriela","Ramirez, Stephanie",2023-01-27,pending rental,,
+8604285161,"Roman, Gabriela",,2023-02-19,relisted,,
+8846234236,"Vargas, Leah","Crawford, Cathy",2022-01-26,pending rental,,
+8846234236,"Vargas, Leah","Crawford, Cathy",2022-02-09,rented,4191.07,100
+7963728039,"Wood, Katelyn","Gibson, Rebekah",2022-11-30,pending rental,,
+7963728039,"Wood, Katelyn",,2022-12-30,relisted,,
+7441928500,"Miller, Danielle","Clark, Debbie",2022-01-09,pending sale,,
+7441928500,"Miller, Danielle",,2022-02-06,relisted,,
+8227157043,"Sims, Roberto","David, Miranda",2022-03-15,pending sale,,
+8227157043,"Sims, Roberto",,2022-03-24,relisted,,
+7012686955,"Simpson, Christina","Reed, Jasmine",2023-05-12,pending rental,,
+7012686955,"Simpson, Christina","Reed, Jasmine",2023-06-05,rented,5092.88,100
+4712004160,"Marshall, Nicole","Williams, Paul",2022-04-23,pending rental,,
+4712004160,"Marshall, Nicole","Williams, Paul",2022-05-13,rented,2921.61,100
+3791279945,"Fry, Joseph","Knight, Samantha",2022-11-04,pending rental,,
+3791279945,"Fry, Joseph",,2022-11-12,relisted,,
+3174946081,"Meyer, Valerie","Donovan, Rodney",2022-12-18,pending sale,,
+3174946081,"Meyer, Valerie","Donovan, Rodney",2022-12-19,sold,1800508.78,4.918810143588795
+2320932403,"Gonzales, Catherine","Long, Scott",2021-09-20,pending rental,,
+2320932403,"Gonzales, Catherine","Long, Scott",2021-10-11,rented,5585.54,100
+1320913399,"Smith, Joshua","Campbell, Carlos",2021-08-10,pending sale,,
+1320913399,"Smith, Joshua","Campbell, Carlos",2021-09-02,sold,1057270.98,4.892823418018284
+8647030983,"Norris, Joshua","Klein, Julie",2022-04-13,pending rental,,
+8647030983,"Norris, Joshua",,2022-04-27,relisted,,
+8938289084,"Marshall, Nicole","Sweeney, Michael",2022-11-04,pending rental,,
+8938289084,"Marshall, Nicole","Sweeney, Michael",2022-11-24,rented,4433.95,100
+9604207066,"Greene, Courtney","Miller, Michael",2021-07-23,pending rental,,
+9604207066,"Greene, Courtney",,2021-08-19,relisted,,
+9705806088,"Brennan, Lindsay","Garcia, Mallory",2022-07-10,pending sale,,
+9705806088,"Brennan, Lindsay","Garcia, Mallory",2022-08-02,sold,1787333.02,5.811539656722997
+4681441447,"Paul, Ashley","Rogers, Heather",2023-01-12,pending sale,,
+4681441447,"Paul, Ashley","Rogers, Heather",2023-01-13,sold,1819336.36,5.065020921075589
+8254391187,"Vargas, Leah","James, Sonia",2021-11-25,pending rental,,
+8254391187,"Vargas, Leah",,2021-12-16,relisted,,
+6928636790,"Collier, James","Carrillo, Samuel",2022-03-11,pending rental,,
+6928636790,"Collier, James",,2022-03-31,relisted,,
+3574396897,"Grant, Douglas","Stevens, Miguel",2021-07-25,pending rental,,
+3574396897,"Grant, Douglas","Stevens, Miguel",2021-08-15,rented,4595.68,100
+3327304730,"Coffey, Patrick","Roberson, Carlos",2022-02-05,pending rental,,
+3327304730,"Coffey, Patrick","Roberson, Carlos",2022-02-07,rented,3004.35,100
+9632905212,"Brown, John","Mcmahon, Thomas",2023-06-19,pending rental,,
+9632905212,"Brown, John",,2023-07-11,relisted,,
+9334227908,"Cox, Kathleen","Salazar, Jerry",2021-12-13,pending rental,,
+9334227908,"Cox, Kathleen","Salazar, Jerry",2022-01-08,rented,4131.39,100
+2146271588,"Sims, Roberto","Rich, David",2022-08-17,pending rental,,
+2146271588,"Sims, Roberto",,2022-09-06,relisted,,
+4714470621,"Barrett, Joy","Armstrong, Makayla",2022-09-09,pending rental,,
+4714470621,"Barrett, Joy","Armstrong, Makayla",2022-10-02,rented,4568.37,100
+6326617851,"Olsen, Ann","Griffin, Kevin",2023-06-16,pending sale,,
+6326617851,"Olsen, Ann",,2023-07-11,relisted,,
+4913201234,"Bright, Robert","Wilcox, Timothy",2023-05-22,pending sale,,
+4913201234,"Bright, Robert","Wilcox, Timothy",2023-05-28,sold,234756.29,4.466919944416588
+5245217836,"Coffey, Patrick","Mitchell, Thomas",2022-03-25,pending sale,,
+5245217836,"Coffey, Patrick","Mitchell, Thomas",2022-04-21,sold,220466.64,4.366436355850057
+6180020803,"Campbell, Christopher","Hansen, Jennifer",2023-09-16,pending sale,,
+6180020803,"Campbell, Christopher",,2023-10-16,relisted,,
+9400569453,"Lewis, Kara","Bowen, Eric",2023-04-17,pending sale,,
+9400569453,"Lewis, Kara",,2023-04-27,relisted,,
+5189555112,"Olsen, Ann","Mack, Jennifer",2021-11-19,pending rental,,
+5189555112,"Olsen, Ann",,2021-12-11,relisted,,
+9337121057,"Koch, Luis","Kent, Laura",2021-10-03,pending sale,,
+9337121057,"Koch, Luis","Kent, Laura",2021-10-06,sold,554109.13,4.228322474824813
+2860731526,"Watson, Samantha","Johnson, Keith",2022-10-12,pending rental,,
+2860731526,"Watson, Samantha",,2022-10-17,relisted,,
+4649857187,"Cruz, Connie","Marsh, Cathy",2021-12-06,pending rental,,
+4649857187,"Cruz, Connie",,2022-01-02,relisted,,
+6048368377,"Miller, Alejandro","Arellano, Annette",2023-07-07,pending sale,,
+6048368377,"Miller, Alejandro",,2023-08-05,relisted,,
+8635756301,"Garcia, Craig","Johnson, Kathryn",2021-10-17,pending sale,,
+8635756301,"Garcia, Craig","Johnson, Kathryn",2021-11-06,sold,829198.04,4.174334453529058
+2949392498,"Brennan, Lindsay","Rose, Angela",2022-08-03,pending rental,,
+2949392498,"Brennan, Lindsay","Rose, Angela",2022-08-24,rented,4503.32,100
+8008030571,"Davis, Craig","Olson, Brenda",2024-02-09,pending sale,,
+8008030571,"Davis, Craig","Olson, Brenda",2024-03-03,sold,544768.89,5.202558869689164
+9635270431,"Obrien, Stephanie","Martinez, Melanie",2021-09-06,pending rental,,
+9635270431,"Obrien, Stephanie","Martinez, Melanie",2021-09-23,rented,3616.48,100
+2404460656,"Klein, Brian","Smith, David",2022-01-22,pending rental,,
+2404460656,"Klein, Brian","Smith, David",2022-02-19,rented,4797.92,100
+3207936787,"Barrett, Joy","Winters, Rebecca",2021-06-14,pending rental,,
+3207936787,"Barrett, Joy",,2021-07-04,relisted,,
+5337257872,"Howard, Katherine","Webb, Terri",2021-09-12,pending rental,,
+5337257872,"Howard, Katherine",,2021-10-08,relisted,,
+6131552945,"Lee, Melissa","Ochoa, Maria",2024-04-11,pending rental,,
+6131552945,"Lee, Melissa","Ochoa, Maria",2024-05-08,rented,5749.12,100
+7541726157,"Smith, Joshua","Anderson, Jacob",2021-11-25,pending rental,,
+7541726157,"Smith, Joshua","Anderson, Jacob",2021-12-08,rented,4535.2,100
+1289207814,"Andrews, Faith","Dixon, Nancy",2022-04-15,pending rental,,
+1289207814,"Andrews, Faith",,2022-04-24,relisted,,
+9595917426,"Watson, Samantha","Solomon, Kenneth",2022-07-31,pending rental,,
+9595917426,"Watson, Samantha",,2022-08-03,relisted,,
+6448979917,"Greene, Courtney","Haley, Vanessa",2021-10-16,pending sale,,
+6448979917,"Greene, Courtney","Haley, Vanessa",2021-11-12,sold,932224.84,4.4121554883379375
+1796942132,"Wise, David","Johnson, Mike",2021-05-07,pending sale,,
+1796942132,"Wise, David",,2021-05-28,relisted,,
+1813452304,"Munoz, Paul","Miller, Lori",2022-06-23,pending sale,,
+1813452304,"Munoz, Paul",,2022-07-18,relisted,,
+7744341483,"Vaughan, Robert","Cervantes, Kristin",2021-08-19,pending rental,,
+7744341483,"Vaughan, Robert","Cervantes, Kristin",2021-09-08,rented,4636.6,100
+2071853376,"Watson, Anthony","Jackson, Brian",2024-01-09,pending sale,,
+2071853376,"Watson, Anthony",,2024-02-06,relisted,,
+6863295379,"Mcgrath, Alison","Rios, Antonio",2022-10-27,pending rental,,
+6863295379,"Mcgrath, Alison",,2022-11-10,relisted,,
+9472771952,"Shaw, Thomas","Davis, Mary",2023-01-28,pending rental,,
+9472771952,"Shaw, Thomas","Davis, Mary",2023-02-23,rented,3436.42,100
+2096610836,"Willis, Stephanie","Kline, Curtis",2022-07-16,pending rental,,
+2096610836,"Willis, Stephanie","Kline, Curtis",2022-07-21,rented,3129.49,100
+1634743933,"Coleman, Katherine","Carlson, Alexis",2021-07-04,pending rental,,
+1634743933,"Coleman, Katherine","Carlson, Alexis",2021-07-25,rented,4479.96,100
+8642492655,"Olson, Andrea","Saunders, Allison",2024-01-26,pending rental,,
+8642492655,"Olson, Andrea","Saunders, Allison",2024-02-09,rented,2501.31,100
+8264718739,"Garcia, Craig","Mueller, William",2024-01-12,pending rental,,
+8264718739,"Garcia, Craig","Mueller, William",2024-01-31,rented,3514.07,100
+1642226071,"Dodson, Rhonda","Peterson, Justin",2023-11-07,pending sale,,
+1642226071,"Dodson, Rhonda",,2023-12-03,relisted,,
+5533256287,"Brown, John","Warner, Bryan",2024-04-13,pending sale,,
+5533256287,"Brown, John",,2024-04-30,relisted,,
+8531781948,"Ross, Molly","Smith, Michael",2022-06-30,pending sale,,
+8531781948,"Ross, Molly","Smith, Michael",2022-07-12,sold,1273264.34,3.063950088769199
+2181542422,"Fletcher, Margaret","Obrien, Linda",2024-01-24,pending rental,,
+2181542422,"Fletcher, Margaret","Obrien, Linda",2024-01-31,rented,4799.77,100
+3593174986,"Bright, Robert","Davidson, Brett",2022-01-17,pending sale,,
+3593174986,"Bright, Robert",,2022-01-25,relisted,,
+7904022435,"Cordova, Virginia","Lewis, Sheena",2024-01-02,pending sale,,
+7904022435,"Cordova, Virginia",,2024-01-09,relisted,,
+6102532353,"Willis, Stephanie","Evans, Erik",2022-11-20,pending rental,,
+6102532353,"Willis, Stephanie","Evans, Erik",2022-12-14,rented,5087.79,100
+6160532197,"Patton, Colton","Davis, Jamie",2023-06-11,pending sale,,
+6160532197,"Patton, Colton","Davis, Jamie",2023-06-26,sold,1530342.86,3.1052051269410157
+7669254005,"Howard, Katherine","Jones, Amy",2022-07-12,pending sale,,
+7669254005,"Howard, Katherine","Jones, Amy",2022-07-14,sold,1689436.92,5.757626974731452
+6485997435,"Cameron, Katie","Austin, Julie",2021-10-04,pending rental,,
+6485997435,"Cameron, Katie","Austin, Julie",2021-10-15,rented,4722.11,100
+5397326806,"Olsen, Ann","Kelly, Rebecca",2023-11-23,pending rental,,
+5397326806,"Olsen, Ann",,2023-12-07,relisted,,
+7399082001,"Cruz, Connie","Young, Amy",2022-10-20,pending sale,,
+7399082001,"Cruz, Connie","Young, Amy",2022-10-24,sold,322529.01,3.501755752649018
+5445157160,"Turner, Cynthia","Velazquez, Malik",2022-09-19,pending rental,,
+5445157160,"Turner, Cynthia",,2022-10-19,relisted,,
+7052372344,"Morse, Randy","Martin, John",2022-06-02,pending rental,,
+7052372344,"Morse, Randy",,2022-06-10,relisted,,
+6236816158,"Thomas, Kenneth","Young, Scott",2022-10-01,pending sale,,
+6236816158,"Thomas, Kenneth",,2022-10-27,relisted,,
+9163730756,"Jones, Sarah","Watkins, Robert",2021-12-05,pending rental,,
+9163730756,"Jones, Sarah",,2021-12-16,relisted,,
+3933187207,"Wood, Maria","Vaughan, Antonio",2021-06-23,pending rental,,
+3933187207,"Wood, Maria","Vaughan, Antonio",2021-07-04,rented,4588.08,100
+4152270595,"Miller, Danielle","Cox, Megan",2024-01-16,pending sale,,
+4152270595,"Miller, Danielle","Cox, Megan",2024-02-04,sold,1560552.47,3.58394037466687
+4156630709,"Barrett, Joy","Williams, Corey",2023-06-02,pending rental,,
+4156630709,"Barrett, Joy",,2023-06-24,relisted,,
+7086086906,"Munoz, Paul","Berry, Kyle",2022-03-03,pending sale,,
+7086086906,"Munoz, Paul",,2022-03-04,relisted,,
+2475530888,"Frye, Angela","Johnson, Timothy",2021-06-10,pending rental,,
+2475530888,"Frye, Angela",,2021-06-23,relisted,,
+9451490804,"Zimmerman, Melissa","Wells, Heather",2022-08-03,pending rental,,
+9451490804,"Zimmerman, Melissa",,2022-08-28,relisted,,
+1458560916,"Skinner, Aaron","Martin, Kelli",2022-03-22,pending rental,,
+1458560916,"Skinner, Aaron",,2022-04-06,relisted,,
+2565546687,"Barrett, Joy","Bailey, Anthony",2022-03-04,pending sale,,
+2565546687,"Barrett, Joy",,2022-03-08,relisted,,
+4309941784,"Andrews, Faith","Jackson, Sandra",2024-05-02,pending sale,,
+4309941784,"Andrews, Faith",,2024-05-15,relisted,,
+3350374273,"Gray, Christina","Hampton, Paul",2021-12-06,pending rental,,
+3350374273,"Gray, Christina","Hampton, Paul",2021-12-15,rented,2864.57,100
+5897068006,"Greene, Courtney","Ruiz, Debbie",2023-09-24,pending rental,,
+5897068006,"Greene, Courtney",,2023-10-09,relisted,,
+2421873241,"Willis, Stephanie","Daniels, Victor",2023-09-27,pending rental,,
+2421873241,"Willis, Stephanie",,2023-10-27,relisted,,
+3454660187,"Shaffer, Jacqueline","Watts, Jamie",2021-06-18,pending sale,,
+3454660187,"Shaffer, Jacqueline",,2021-07-08,relisted,,
+8928807551,"Obrien, Stephanie","Smith, Brian",2021-05-07,pending sale,,
+8928807551,"Obrien, Stephanie",,2021-05-22,relisted,,
+9916379765,"Diaz, Bianca","Campbell, Jason",2021-05-17,pending rental,,
+9916379765,"Diaz, Bianca","Campbell, Jason",2021-05-23,rented,4345.03,100
+5348639386,"Zimmerman, Melissa","Krueger, Brian",2021-12-28,pending rental,,
+5348639386,"Zimmerman, Melissa","Krueger, Brian",2022-01-06,rented,5499.16,100
+5845305403,"Wilcox, Frank","Martinez, Kimberly",2023-03-31,pending sale,,
+5845305403,"Wilcox, Frank",,2023-04-29,relisted,,
+4884950065,"Campos, Michael","Owens, Bryan",2022-05-16,pending rental,,
+4884950065,"Campos, Michael",,2022-05-22,relisted,,
+1370371856,"Fry, Joseph","Green, Susan",2022-03-21,pending rental,,
+1370371856,"Fry, Joseph","Green, Susan",2022-03-25,rented,5363.89,100
+8794975961,"Holland, Kristy","Glover, Cynthia",2022-09-16,pending rental,,
+8794975961,"Holland, Kristy",,2022-10-06,relisted,,
+8388716767,"Hopkins, Andrew","Valentine, Michelle",2022-07-27,pending rental,,
+8388716767,"Hopkins, Andrew","Valentine, Michelle",2022-08-06,rented,2601.94,100
+3090941357,"Romero, Diane","Hebert, Deborah",2021-12-21,pending rental,,
+3090941357,"Romero, Diane","Hebert, Deborah",2021-12-23,rented,2445.53,100
+2563876087,"Patton, Colton","Phillips, Antonio",2022-08-13,pending rental,,
+2563876087,"Patton, Colton","Phillips, Antonio",2022-09-01,rented,1840.65,100
+8946453342,"Greene, Courtney","Aguilar, James",2021-09-09,pending sale,,
+8946453342,"Greene, Courtney","Aguilar, James",2021-09-24,sold,1104324.57,5.035925429017519
+4199222427,"Vargas, Leah","Scott, Erica",2021-05-29,pending sale,,
+4199222427,"Vargas, Leah","Scott, Erica",2021-06-08,sold,1888543.73,3.8585416495738514
+3173191529,"Norris, Joshua","Johnson, Timothy",2022-08-29,pending sale,,
+3173191529,"Norris, Joshua",,2022-09-20,relisted,,
+1735719706,"Cordova, Virginia","Torres, Robert",2022-05-11,pending sale,,
+1735719706,"Cordova, Virginia",,2022-05-16,relisted,,
+1704222638,"Murillo, Lydia","Gallagher, Wanda",2022-03-06,pending rental,,
+1704222638,"Murillo, Lydia",,2022-04-05,relisted,,
+6055596240,"Brennan, Lindsay","Stevens, Miguel",2022-07-24,pending sale,,
+6055596240,"Brennan, Lindsay",,2022-08-17,relisted,,
+8057047943,"Munoz, Paul","Zhang, Colin",2021-05-21,pending rental,,
+8057047943,"Munoz, Paul",,2021-05-28,relisted,,
+3567316556,"Mccann, Wendy","Cole, Audrey",2023-12-14,pending sale,,
+3567316556,"Mccann, Wendy","Cole, Audrey",2023-12-30,sold,1645038.75,4.3008580148896085
+8484370634,"Zimmerman, Melissa","Collins, Rose",2023-01-14,pending rental,,
+8484370634,"Zimmerman, Melissa","Collins, Rose",2023-02-01,rented,4659.44,100
+2096762086,"Evans, Teresa","Ramirez, Johnny",2021-10-25,pending rental,,
+2096762086,"Evans, Teresa","Ramirez, Johnny",2021-11-04,rented,2373.02,100
+8998965306,"Anderson, Joseph","Craig, James",2022-04-01,pending rental,,
+8998965306,"Anderson, Joseph","Craig, James",2022-04-20,rented,3062.9,100
+7532206358,"Romero, Diane","Ellis, Heather",2023-02-07,pending sale,,
+7532206358,"Romero, Diane",,2023-02-16,relisted,,
+4898471763,"Adams, Ashley","Williamson, Tyrone",2023-06-13,pending rental,,
+4898471763,"Adams, Ashley","Williamson, Tyrone",2023-06-15,rented,2887.64,100
+4094791598,"Parker, Stephanie","Lindsey, Stephanie",2023-09-10,pending rental,,
+4094791598,"Parker, Stephanie","Lindsey, Stephanie",2023-10-08,rented,5237.65,100
+5721556025,"Hodges, Patrick","Haney, Tracey",2021-11-23,pending rental,,
+5721556025,"Hodges, Patrick","Haney, Tracey",2021-11-26,rented,4601.18,100
+6148684412,"Brennan, Lindsay","Ramsey, Linda",2023-11-04,pending rental,,
+6148684412,"Brennan, Lindsay",,2023-11-17,relisted,,
+3415749806,"Klein, Brian","Washington, Maurice",2022-06-30,pending rental,,
+3415749806,"Klein, Brian",,2022-07-28,relisted,,
+4888001097,"Moore, Robert","Solomon, Kenneth",2021-10-24,pending rental,,
+4888001097,"Moore, Robert",,2021-11-08,relisted,,
+8667591892,"Garcia, Christopher","Parker, Brandy",2022-10-29,pending rental,,
+8667591892,"Garcia, Christopher",,2022-10-31,relisted,,
+9461816986,"Fletcher, Margaret","Patterson, Kelsey",2022-04-30,pending rental,,
+9461816986,"Fletcher, Margaret","Patterson, Kelsey",2022-05-16,rented,5151.67,100
+8274814769,"Koch, Luis","Hart, Bradley",2022-07-17,pending rental,,
+8274814769,"Koch, Luis","Hart, Bradley",2022-08-15,rented,5244.38,100
+6163369496,"Kane, Diana","Gill, Melissa",2021-07-14,pending rental,,
+6163369496,"Kane, Diana","Gill, Melissa",2021-07-31,rented,1852.47,100
+4096999305,"Collier, James","Douglas, Beth",2021-11-30,pending sale,,
+4096999305,"Collier, James",,2021-12-26,relisted,,
+5118725567,"White, Gregory","Carroll, Thomas",2022-12-07,pending sale,,
+5118725567,"White, Gregory",,2022-12-19,relisted,,
+6590088886,"Willis, Stephanie","Frey, Daniel",2023-02-14,pending rental,,
+6590088886,"Willis, Stephanie",,2023-02-18,relisted,,
+8643520721,"Leon, Patrick","Douglas, Beth",2022-10-23,pending rental,,
+8643520721,"Leon, Patrick","Douglas, Beth",2022-10-28,rented,4401.26,100
+7659844609,"Galvan, Alyssa","Williams, Ashley",2022-06-15,pending rental,,
+7659844609,"Galvan, Alyssa",,2022-06-20,relisted,,
+5520257252,"Watson, Samantha","Cole, Audrey",2023-03-02,pending sale,,
+5520257252,"Watson, Samantha",,2023-03-22,relisted,,
+7636896319,"Koch, Luis","Smith, Peter",2022-11-09,pending rental,,
+7636896319,"Koch, Luis","Smith, Peter",2022-11-23,rented,3014.61,100
+1180932655,"Cameron, Katie","Marsh, Cathy",2022-09-10,pending sale,,
+1180932655,"Cameron, Katie",,2022-09-17,relisted,,
+4322236926,"Klein, Brian","Kane, Oscar",2021-10-22,pending sale,,
+4322236926,"Klein, Brian","Kane, Oscar",2021-11-06,sold,481764.97,3.6393001320133083
+8242605513,"Grant, Douglas","Henry, Kevin",2023-06-30,pending sale,,
+8242605513,"Grant, Douglas",,2023-07-02,relisted,,
+6254376094,"Vaughan, Robert","Alvarez, Tyler",2022-08-11,pending rental,,
+6254376094,"Vaughan, Robert","Alvarez, Tyler",2022-08-28,rented,2415.52,100
+3726777189,"Evans, Teresa","Fox, Rhonda",2021-09-14,pending rental,,
+3726777189,"Evans, Teresa",,2021-10-08,relisted,,
+1564128999,"Cameron, Katie","Woods, Lisa",2021-06-09,pending sale,,
+1564128999,"Cameron, Katie",,2021-06-19,relisted,,
+2626894924,"Wilcox, Frank","Santos, Matthew",2022-03-05,pending sale,,
+2626894924,"Wilcox, Frank",,2022-03-17,relisted,,
+5385512932,"Smith, Joshua","Terrell, Joseph",2023-10-22,pending sale,,
+5385512932,"Smith, Joshua","Terrell, Joseph",2023-11-13,sold,2219730.85,5.940758952422473
+1062087101,"Mcguire, Jeanette","Jackson, Christopher",2022-03-12,pending sale,,
+1062087101,"Mcguire, Jeanette","Jackson, Christopher",2022-04-09,sold,1045523.32,4.5082183830163665
+3178423875,"Wood, Katelyn","Wiggins, Michael",2022-10-01,pending sale,,
+3178423875,"Wood, Katelyn","Wiggins, Michael",2022-10-13,sold,130717.58,4.736056879415062
+4213796670,"Wheeler, Michelle","Conley, Alexander",2022-11-04,pending rental,,
+4213796670,"Wheeler, Michelle","Conley, Alexander",2022-11-09,rented,5005.81,100
+9620497153,"Gray, Christina","Bernard, Marvin",2021-05-19,pending sale,,
+9620497153,"Gray, Christina",,2021-06-07,relisted,,
+5392126007,"Clements, Derek","Davis, Latoya",2021-11-01,pending rental,,
+5392126007,"Clements, Derek",,2021-11-16,relisted,,
+2967956936,"Lopez, Katherine","Wise, Corey",2023-12-13,pending rental,,
+2967956936,"Lopez, Katherine",,2024-01-10,relisted,,
+1455107411,"Gibbs, Anthony","Gill, Jacob",2022-04-30,pending sale,,
+1455107411,"Gibbs, Anthony","Gill, Jacob",2022-05-23,sold,1368965.62,5.155997259577967
+7022168520,"Garcia, Christopher","Jones, Andrew",2023-01-17,pending rental,,
+7022168520,"Garcia, Christopher",,2023-02-11,relisted,,
+7202971186,"Patton, Colton","Young, Matthew",2023-05-24,pending rental,,
+7202971186,"Patton, Colton",,2023-06-12,relisted,,
+9485261510,"Gonzales, Catherine","Miller, Dominique",2022-12-22,pending sale,,
+9485261510,"Gonzales, Catherine",,2023-01-07,relisted,,
+4386734879,"Hopkins, Andrew","Taylor, Carolyn",2024-03-04,pending sale,,
+4386734879,"Hopkins, Andrew",,2024-03-20,relisted,,
+9585852719,"Smith, Joshua","Juarez, Sonia",2022-08-30,pending sale,,
+9585852719,"Smith, Joshua",,2022-09-25,relisted,,
+7115685039,"Garcia, Craig","Baker, Bridget",2023-06-25,pending sale,,
+7115685039,"Garcia, Craig",,2023-06-30,relisted,,
+5902766314,"Bright, Robert","Santos, Matthew",2021-12-02,pending rental,,
+5902766314,"Bright, Robert",,2022-01-01,relisted,,
+7628230772,"Jones, Sarah","Wright, Tony",2023-04-28,pending sale,,
+7628230772,"Jones, Sarah",,2023-05-22,relisted,,
+3559180696,"White, Gregory","Ray, David",2022-04-14,pending rental,,
+3559180696,"White, Gregory",,2022-05-05,relisted,,
+4300647569,"Grant, Douglas","Hernandez, Jerry",2021-12-02,pending rental,,
+4300647569,"Grant, Douglas",,2021-12-09,relisted,,
+3075843227,"Vargas, Leah","Miller, Krystal",2022-08-17,pending rental,,
+3075843227,"Vargas, Leah","Miller, Krystal",2022-08-20,rented,1777.49,100
+9937843644,"Brennan, Lindsay","Davidson, Steven",2022-06-04,pending sale,,
+9937843644,"Brennan, Lindsay","Davidson, Steven",2022-07-04,sold,1195916.46,5.621578201470367
+7448176799,"Pham, Karen","Long, Scott",2021-06-14,pending sale,,
+7448176799,"Pham, Karen","Long, Scott",2021-07-07,sold,257430.61,3.367716984035794
+3698772938,"Wilcox, Frank","Mccoy, Jack",2024-02-14,pending rental,,
+3698772938,"Wilcox, Frank","Mccoy, Jack",2024-02-17,rented,1846.15,100
+3399162978,"Moore, Robert","Stokes, Savannah",2022-08-01,pending rental,,
+3399162978,"Moore, Robert",,2022-08-20,relisted,,
+6395196681,"Adams, Ashley","Tapia, Jeffrey",2023-04-06,pending rental,,
+6395196681,"Adams, Ashley","Tapia, Jeffrey",2023-04-11,rented,3780.87,100
+3552218571,"Rios, Mary","Vega, Max",2021-05-13,pending rental,,
+3552218571,"Rios, Mary",,2021-05-14,relisted,,
+9850153889,"Patton, Colton","Robinson, Jose",2022-12-18,pending sale,,
+9850153889,"Patton, Colton","Robinson, Jose",2022-12-27,sold,668256.9,3.955628576933716
+9891608773,"Erickson, Dakota","Waters, Michael",2023-12-19,pending sale,,
+9891608773,"Erickson, Dakota","Waters, Michael",2024-01-18,sold,1579087.94,4.527745798513637
+6294540070,"Holland, Kristy","Green, James",2022-09-06,pending rental,,
+6294540070,"Holland, Kristy","Green, James",2022-09-23,rented,4371.36,100
+4222898944,"Patton, Colton","Guerrero, Lori",2022-12-19,pending rental,,
+4222898944,"Patton, Colton","Guerrero, Lori",2022-12-23,rented,4149.65,100
+2666210575,"Brown, Ryan","Daniels, Lauren",2023-01-12,pending sale,,
+2666210575,"Brown, Ryan",,2023-01-25,relisted,,
+8109948707,"Meyer, Valerie","Hopkins, James",2021-07-23,pending sale,,
+8109948707,"Meyer, Valerie",,2021-08-14,relisted,,
+2028244296,"Cruz, Pamela","Gonzales, Jennifer",2023-04-02,pending sale,,
+2028244296,"Cruz, Pamela","Gonzales, Jennifer",2023-04-08,sold,1022908.32,3.9346933136841695
+1114687388,"Williams, Kristy","White, Julie",2021-08-02,pending rental,,
+1114687388,"Williams, Kristy",,2021-08-05,relisted,,
+7249012710,"Watson, Samantha","Barrett, Tina",2021-06-17,pending sale,,
+7249012710,"Watson, Samantha",,2021-07-17,relisted,,
+5394520570,"Morse, Randy","Bennett, Stephanie",2021-09-03,pending sale,,
+5394520570,"Morse, Randy","Bennett, Stephanie",2021-09-24,sold,861101.87,3.516736939160518
+4351724323,"Garrett, Raymond","Burton, Miguel",2022-12-02,pending rental,,
+4351724323,"Garrett, Raymond","Burton, Miguel",2022-12-03,rented,2141.42,100
+6317713508,"Garrett, Raymond","Sanchez, Madison",2023-02-21,pending rental,,
+6317713508,"Garrett, Raymond","Sanchez, Madison",2023-02-25,rented,2970.15,100
+6634721589,"Mcgrath, Alison","Jordan, Gina",2023-03-13,pending rental,,
+6634721589,"Mcgrath, Alison","Jordan, Gina",2023-04-04,rented,4674.6,100
+2352332348,"Brown, John","Glover, Cynthia",2021-08-07,pending rental,,
+2352332348,"Brown, John","Glover, Cynthia",2021-08-21,rented,3777.9,100
+2409144820,"Gibbs, Anthony","Brown, Robert",2023-09-14,pending rental,,
+2409144820,"Gibbs, Anthony","Brown, Robert",2023-09-27,rented,3264.33,100
+4752762582,"Williams, Kristy","David, Matthew",2024-04-27,pending rental,,
+4752762582,"Williams, Kristy",,2024-04-28,relisted,,
+4668911110,"Grant, Douglas","Mora, Andrea",2021-08-20,pending sale,,
+4668911110,"Grant, Douglas","Mora, Andrea",2021-08-31,sold,1926107.36,5.210824993600914
+7620835921,"Bright, Robert","Campbell, Sean",2021-09-11,pending rental,,
+7620835921,"Bright, Robert",,2021-09-29,relisted,,
+1856880855,"Klein, Brian","Cardenas, Luke",2022-09-23,pending rental,,
+1856880855,"Klein, Brian","Cardenas, Luke",2022-10-20,rented,4032.62,100
+7803417855,"Roman, Gabriela","Carter, Olivia",2021-08-25,pending rental,,
+7803417855,"Roman, Gabriela","Carter, Olivia",2021-09-02,rented,5067.66,100
+6518644164,"Barry, Megan","Robinson, Madison",2021-08-12,pending rental,,
+6518644164,"Barry, Megan","Robinson, Madison",2021-09-08,rented,3640.66,100
+2719514355,"Hopkins, Andrew","Thomas, Christopher",2021-12-25,pending sale,,
+2719514355,"Hopkins, Andrew","Thomas, Christopher",2022-01-24,sold,1183415.68,4.145807871632118
+2552501932,"Barrett, Joy","Duncan, Karen",2023-06-15,pending sale,,
+2552501932,"Barrett, Joy",,2023-06-18,relisted,,
+1795371020,"Watson, Anthony","Webster, Jerry",2021-07-25,pending sale,,
+1795371020,"Watson, Anthony",,2021-07-26,relisted,,
+7027018998,"Obrien, Stephanie","Thompson, Allison",2023-04-23,pending sale,,
+7027018998,"Obrien, Stephanie","Thompson, Allison",2023-05-13,sold,1837490.87,5.474975547126705
+7311052087,"Brennan, Lindsay","Griffin, Amber",2021-09-08,pending rental,,
+7311052087,"Brennan, Lindsay","Griffin, Amber",2021-10-08,rented,1621.26,100
+8620726630,"Wood, Katelyn","Owens, Stephen",2023-04-08,pending rental,,
+8620726630,"Wood, Katelyn",,2023-04-23,relisted,,
+4988366464,"Murillo, Lydia","Cardenas, Nicholas",2023-05-16,pending sale,,
+4988366464,"Murillo, Lydia","Cardenas, Nicholas",2023-06-01,sold,518098.97,4.286623201512036
+4446619813,"Zimmerman, Melissa","Donovan, Rodney",2023-08-20,pending sale,,
+4446619813,"Zimmerman, Melissa","Donovan, Rodney",2023-09-08,sold,1338196.0,4.219352377756243
+9626526697,"Simpson, Christina","Hart, Brandon",2021-09-15,pending sale,,
+9626526697,"Simpson, Christina","Hart, Brandon",2021-09-27,sold,1519330.62,4.745432904738456
+8275644902,"Roman, Gabriela","King, Anne",2022-06-13,pending rental,,
+8275644902,"Roman, Gabriela","King, Anne",2022-06-28,rented,1762.01,100
+1708849163,"Leon, Patrick","Miller, Suzanne",2022-06-24,pending sale,,
+1708849163,"Leon, Patrick","Miller, Suzanne",2022-07-13,sold,883108.94,4.222864997184037
+4567368210,"Jones, Sarah","Campbell, Bradley",2024-02-07,pending rental,,
+4567368210,"Jones, Sarah","Campbell, Bradley",2024-02-13,rented,2731.49,100
+1695023895,"Taylor, Jessica","Perez, James",2021-07-17,pending rental,,
+1695023895,"Taylor, Jessica","Perez, James",2021-08-02,rented,4853.88,100
+8952391055,"Gomez, Shannon","Ramirez, David",2021-05-20,pending sale,,
+8952391055,"Gomez, Shannon",,2021-06-07,relisted,,
+4274633339,"Smith, Joshua","Barber, Tammy",2022-12-14,pending rental,,
+4274633339,"Smith, Joshua",,2023-01-12,relisted,,
+4731862495,"Howard, Katherine","Watson, Teresa",2022-02-13,pending rental,,
+4731862495,"Howard, Katherine","Watson, Teresa",2022-02-15,rented,2111.44,100
+2568431465,"Klein, Brian","Hart, Bradley",2021-11-07,pending rental,,
+2568431465,"Klein, Brian","Hart, Bradley",2021-11-21,rented,2381.17,100
+9109471400,"Olson, Andrea","Benton, Lawrence",2021-08-18,pending sale,,
+9109471400,"Olson, Andrea",,2021-08-20,relisted,,
+8416953802,"Perry, Cynthia","Fernandez, Tyler",2024-01-22,pending sale,,
+8416953802,"Perry, Cynthia",,2024-02-02,relisted,,
+2172410000,"Lewis, Kara","Ellis, Heather",2023-07-06,pending rental,,
+2172410000,"Lewis, Kara","Ellis, Heather",2023-07-26,rented,4182.2,100
+8649856063,"Williams, Kristy","Nichols, Eric",2022-02-07,pending rental,,
+8649856063,"Williams, Kristy",,2022-02-25,relisted,,
+2268362832,"Shaw, Thomas","Contreras, Samantha",2022-06-06,pending sale,,
+2268362832,"Shaw, Thomas","Contreras, Samantha",2022-06-14,sold,563582.04,4.186539286397865
+2419026744,"Barnes, Michael","Page, Heidi",2021-07-07,pending rental,,
+2419026744,"Barnes, Michael",,2021-07-14,relisted,,
+1508892460,"Dodson, Rhonda","Webb, Erica",2021-07-08,pending rental,,
+1508892460,"Dodson, Rhonda","Webb, Erica",2021-07-18,rented,5146.55,100
+7388679448,"Wood, Katelyn","Brown, Julie",2022-03-01,pending sale,,
+7388679448,"Wood, Katelyn","Brown, Julie",2022-03-16,sold,2073061.62,3.2064664873677797
+5134951113,"Pham, Karen","Alexander, Robert",2023-11-21,pending rental,,
+5134951113,"Pham, Karen","Alexander, Robert",2023-12-10,rented,4816.23,100
+5296266691,"Galvan, Alyssa","Rogers, Anthony",2023-10-12,pending rental,,
+5296266691,"Galvan, Alyssa","Rogers, Anthony",2023-10-31,rented,1686.84,100
+8314396794,"Andrews, Faith","Pena, Karen",2022-05-29,pending sale,,
+8314396794,"Andrews, Faith",,2022-06-28,relisted,,
+8007124447,"Meyer, Valerie","Hopkins, James",2022-04-22,pending sale,,
+8007124447,"Meyer, Valerie",,2022-05-09,relisted,,
+1329540928,"Miller, Danielle","Mcdonald, Courtney",2022-08-04,pending rental,,
+1329540928,"Miller, Danielle","Mcdonald, Courtney",2022-08-17,rented,2816.55,100
+9547092947,"Perry, Cynthia","Burns, Carrie",2021-07-10,pending rental,,
+9547092947,"Perry, Cynthia",,2021-07-19,relisted,,
+1853741705,"Gray, Christina","Reyes, Laura",2023-10-28,pending rental,,
+1853741705,"Gray, Christina","Reyes, Laura",2023-11-06,rented,3926.59,100
+3064654571,"Garcia, Craig","Watkins, Robert",2023-12-31,pending rental,,
+3064654571,"Garcia, Craig","Watkins, Robert",2024-01-15,rented,3374.48,100
+5880509614,"Pham, Karen","Gonzales, Jennifer",2023-07-07,pending rental,,
+5880509614,"Pham, Karen","Gonzales, Jennifer",2023-08-01,rented,2655.3,100
+6358454279,"Murillo, Lydia","Stephens, Paula",2023-02-09,pending sale,,
+6358454279,"Murillo, Lydia","Stephens, Paula",2023-03-02,sold,625297.49,5.328630238148407
+5993794365,"Leon, Patrick","Scott, Charles",2022-05-23,pending rental,,
+5993794365,"Leon, Patrick","Scott, Charles",2022-06-19,rented,4798.23,100
+6789248518,"Grant, Douglas","Anderson, Courtney",2021-08-15,pending rental,,
+6789248518,"Grant, Douglas",,2021-08-22,relisted,,
+4460423540,"Vaughan, Robert","Young, Amy",2021-10-17,pending sale,,
+4460423540,"Vaughan, Robert",,2021-11-05,relisted,,
+4151209592,"Fry, Joseph","Ritter, Megan",2024-01-03,pending sale,,
+4151209592,"Fry, Joseph",,2024-01-14,relisted,,
+7491332510,"Terry, Zachary","Williams, Megan",2023-08-12,pending rental,,
+7491332510,"Terry, Zachary",,2023-08-13,relisted,,
+5243318893,"Anderson, Joseph","Hart, Bradley",2021-06-12,pending rental,,
+5243318893,"Anderson, Joseph",,2021-07-02,relisted,,
+1874306426,"Skinner, Aaron","Robertson, Paul",2022-11-01,pending rental,,
+1874306426,"Skinner, Aaron",,2022-11-21,relisted,,
+6601850622,"Jones, Sarah","King, Larry",2023-01-04,pending rental,,
+6601850622,"Jones, Sarah",,2023-02-02,relisted,,
+3351946108,"Leon, Patrick","Wilkins, Edwin",2023-10-12,pending sale,,
+3351946108,"Leon, Patrick",,2023-10-24,relisted,,
+2587950132,"Leon, Patrick","Bond, Anthony",2024-04-05,pending rental,,
+2587950132,"Leon, Patrick",,2024-04-11,relisted,,
+9702449017,"Howard, Katherine","Harris, Julie",2024-01-04,pending rental,,
+9702449017,"Howard, Katherine","Harris, Julie",2024-01-07,rented,4177.82,100
+2284161699,"Campbell, Christopher","Lindsey, Zachary",2021-05-20,pending sale,,
+2284161699,"Campbell, Christopher","Lindsey, Zachary",2021-06-11,sold,1996187.89,4.8840558451597165
+4003599900,"Johnson, Angelica","Johnson, Debra",2024-01-23,pending rental,,
+4003599900,"Johnson, Angelica","Johnson, Debra",2024-02-06,rented,4514.46,100
+5800159247,"Brown, Ryan","Pena, Timothy",2022-04-14,pending rental,,
+5800159247,"Brown, Ryan","Pena, Timothy",2022-04-24,rented,2417.34,100
+1131940548,"Fry, Joseph","Kane, Oscar",2023-03-06,pending sale,,
+1131940548,"Fry, Joseph",,2023-04-03,relisted,,
+5702364991,"Mcgrath, Alison","Wall, Erica",2023-06-22,pending sale,,
+5702364991,"Mcgrath, Alison","Wall, Erica",2023-07-19,sold,1223071.42,4.785588567762815
+2004644993,"Obrien, Stephanie","Carney, Annette",2024-02-18,pending sale,,
+2004644993,"Obrien, Stephanie",,2024-03-02,relisted,,
+2000797189,"Taylor, Jessica","Kent, Robert",2024-03-16,pending rental,,
+2000797189,"Taylor, Jessica",,2024-04-02,relisted,,
+8810458828,"Bradley, Michael","Lee, Joshua",2023-12-28,pending sale,,
+8810458828,"Bradley, Michael","Lee, Joshua",2023-12-29,sold,1400591.12,3.41511764226349
+6810359619,"Evans, Christina","Davidson, Steven",2024-03-28,pending rental,,
+6810359619,"Evans, Christina","Davidson, Steven",2024-04-20,rented,3821.24,100
+8301297808,"Lopez, Katherine","Adams, Rita",2023-08-07,pending rental,,
+8301297808,"Lopez, Katherine",,2023-08-29,relisted,,
+2665693396,"Romero, Diane","Carr, Kelly",2023-03-23,pending rental,,
+2665693396,"Romero, Diane","Carr, Kelly",2023-04-01,rented,2626.35,100
+6577734666,"Gibbs, Anthony","Brown, Roberta",2022-01-05,pending rental,,
+6577734666,"Gibbs, Anthony",,2022-01-25,relisted,,
+3244753508,"Koch, Luis","Robertson, Adam",2022-09-30,pending sale,,
+3244753508,"Koch, Luis","Robertson, Adam",2022-10-08,sold,1935943.99,4.888020555012256
+5805203401,"Gonzales, Catherine","Ellison, Vanessa",2024-01-17,pending rental,,
+5805203401,"Gonzales, Catherine",,2024-01-18,relisted,,
+8874623144,"Taylor, Jessica","Peterson, Traci",2024-01-03,pending sale,,
+8874623144,"Taylor, Jessica",,2024-01-14,relisted,,
+5183320671,"Davis, Ashley","Fischer, Lisa",2023-03-07,pending rental,,
+5183320671,"Davis, Ashley","Fischer, Lisa",2023-03-28,rented,3177.75,100
+2963843556,"Carlson, Megan","Cisneros, Melissa",2024-04-16,pending sale,,
+2963843556,"Carlson, Megan","Cisneros, Melissa",2024-04-24,sold,1725814.86,4.496946319876565
+9720173667,"Gonzales, Catherine","Conway, Jon",2021-05-07,pending rental,,
+9720173667,"Gonzales, Catherine",,2021-05-08,relisted,,
+9166595707,"Dodson, Rhonda","Tucker, Michael",2022-08-08,pending sale,,
+9166595707,"Dodson, Rhonda",,2022-08-10,relisted,,
+8650188185,"Collier, James","Waters, Michael",2022-11-18,pending rental,,
+8650188185,"Collier, James",,2022-11-19,relisted,,
+3323754438,"Evans, Teresa","Brewer, Mariah",2023-08-28,pending rental,,
+3323754438,"Evans, Teresa","Brewer, Mariah",2023-09-22,rented,4141.75,100
+8454191184,"Lewis, Kara","Herrera, Katherine",2022-10-30,pending rental,,
+8454191184,"Lewis, Kara",,2022-11-02,relisted,,
+5908024945,"Parker, Stephanie","Williams, Kimberly",2023-02-17,pending sale,,
+5908024945,"Parker, Stephanie","Williams, Kimberly",2023-03-05,sold,614339.2,5.913761934318363
+6019165726,"Mata, Miranda","Armstrong, Makayla",2024-03-28,pending rental,,
+6019165726,"Mata, Miranda",,2024-04-14,relisted,,
+5858043984,"Ross, Molly","Williams, Justin",2024-02-17,pending rental,,
+5858043984,"Ross, Molly","Williams, Justin",2024-02-26,rented,4763.13,100
+4029531698,"Cameron, Katie","Bryan, Jody",2021-09-30,pending rental,,
+4029531698,"Cameron, Katie","Bryan, Jody",2021-10-11,rented,1951.87,100
+7574530027,"Watson, Anthony","Rubio, Howard",2021-05-30,pending rental,,
+7574530027,"Watson, Anthony",,2021-06-18,relisted,,
+3000523800,"Frye, Angela","Burton, Miguel",2023-09-28,pending rental,,
+3000523800,"Frye, Angela",,2023-10-22,relisted,,
+2843537916,"Cordova, Virginia","George, Paula",2021-11-15,pending sale,,
+2843537916,"Cordova, Virginia",,2021-12-03,relisted,,
+1684975967,"Garcia, Christopher","Gallagher, Christian",2023-01-16,pending sale,,
+1684975967,"Garcia, Christopher","Gallagher, Christian",2023-02-08,sold,437117.93,5.323296520927558
+6835494588,"Romero, Diane","Frazier, Kimberly",2023-12-23,pending rental,,
+6835494588,"Romero, Diane",,2024-01-15,relisted,,
+7811043553,"Roberts, Sandra","Robbins, Steven",2022-01-03,pending sale,,
+7811043553,"Roberts, Sandra",,2022-01-07,relisted,,
+1639165824,"Shaw, Thomas","Fischer, Lisa",2021-12-28,pending rental,,
+1639165824,"Shaw, Thomas",,2022-01-20,relisted,,
+1241391037,"Walsh, Timothy","Perez, James",2023-03-05,pending sale,,
+1241391037,"Walsh, Timothy",,2023-03-13,relisted,,
+7902510051,"Gray, Christina","Alexander, Lisa",2023-09-26,pending sale,,
+7902510051,"Gray, Christina",,2023-10-22,relisted,,
+6389994205,"Fry, Joseph","Curtis, Patrick",2023-12-20,pending rental,,
+6389994205,"Fry, Joseph",,2024-01-17,relisted,,
+2429011264,"Skinner, Aaron","Fox, Rhonda",2024-04-01,pending rental,,
+2429011264,"Skinner, Aaron",,2024-04-16,relisted,,
+2729755529,"Watson, Anthony","Anderson, Stephanie",2023-11-28,pending sale,,
+2729755529,"Watson, Anthony",,2023-12-21,relisted,,
+3141374099,"Harris, Jennifer","Hines, David",2023-03-16,pending sale,,
+3141374099,"Harris, Jennifer",,2023-03-29,relisted,,
+4743429669,"Taylor, Jessica","Shannon, Richard",2023-01-28,pending rental,,
+4743429669,"Taylor, Jessica","Shannon, Richard",2023-02-13,rented,4535.43,100
+4251196064,"Roberts, Sandra","Warren, Russell",2022-05-20,pending rental,,
+4251196064,"Roberts, Sandra",,2022-05-21,relisted,,
+6082649605,"Koch, Luis","Adams, Rachel",2021-04-29,pending rental,,
+6082649605,"Koch, Luis","Adams, Rachel",2021-05-18,rented,5325.01,100
+2498960324,"Olson, Andrea","Smith, Malik",2022-03-07,pending sale,,
+2498960324,"Olson, Andrea",,2022-03-20,relisted,,
+9837341693,"Greene, Courtney","Evans, Daniel",2023-05-28,pending sale,,
+9837341693,"Greene, Courtney",,2023-06-12,relisted,,
+4000205526,"Dodson, Rhonda","Serrano, Wanda",2022-08-19,pending rental,,
+4000205526,"Dodson, Rhonda",,2022-08-22,relisted,,
+2363911490,"Miller, Danielle","Turner, Tanya",2023-05-27,pending sale,,
+2363911490,"Miller, Danielle",,2023-06-14,relisted,,
+8372509930,"Bradley, Michael","Gordon, Dawn",2023-01-10,pending sale,,
+8372509930,"Bradley, Michael",,2023-01-16,relisted,,
+5317868422,"Garcia, Hannah","Melton, Brent",2023-05-16,pending rental,,
+5317868422,"Garcia, Hannah","Melton, Brent",2023-06-07,rented,5271.41,100
+9374723025,"Perry, Cynthia","Russo, Lisa",2023-09-25,pending rental,,
+9374723025,"Perry, Cynthia",,2023-10-07,relisted,,
+7465526137,"Romero, Diane","Bernard, Marvin",2021-12-09,pending rental,,
+7465526137,"Romero, Diane",,2021-12-26,relisted,,
+9045071788,"Perry, Cynthia","Allen, Robert",2021-11-20,pending rental,,
+9045071788,"Perry, Cynthia",,2021-11-22,relisted,,
+7249779738,"Wheeler, Michelle","Gates, Rachel",2023-09-30,pending sale,,
+7249779738,"Wheeler, Michelle",,2023-10-05,relisted,,
+4041890227,"Collier, James","Gray, Kimberly",2024-03-01,pending sale,,
+4041890227,"Collier, James",,2024-03-13,relisted,,
+7160536955,"Taylor, Jessica","Smith, Courtney",2022-01-28,pending rental,,
+7160536955,"Taylor, Jessica","Smith, Courtney",2022-02-22,rented,1532.59,100
+5396173169,"Frye, Angela","Robinson, Annette",2023-03-21,pending rental,,
+5396173169,"Frye, Angela",,2023-03-31,relisted,,
+2055046104,"Howard, Katherine","Wilson, Kathryn",2024-02-23,pending sale,,
+2055046104,"Howard, Katherine",,2024-03-15,relisted,,
+8584942181,"Ross, Patricia","Russell, Thomas",2022-04-16,pending rental,,
+8584942181,"Ross, Patricia",,2022-05-10,relisted,,
+1974035630,"Hodges, Patrick","Lee, John",2021-05-08,pending sale,,
+1974035630,"Hodges, Patrick","Lee, John",2021-05-10,sold,1767399.44,4.4406215060139775
+4076684234,"Smith, Joshua","Savage, Lori",2021-07-04,pending sale,,
+4076684234,"Smith, Joshua",,2021-07-11,relisted,,
+2754077556,"Mcguire, Jeanette","Miranda, Harold",2022-02-18,pending sale,,
+2754077556,"Mcguire, Jeanette","Miranda, Harold",2022-02-22,sold,416984.68,3.8671027984408903
+6439000423,"Johnson, Angelica","Gray, Michael",2022-04-21,pending sale,,
+6439000423,"Johnson, Angelica",,2022-05-17,relisted,,
+7195245985,"Barrett, Joy","Watkins, Robert",2021-05-19,pending sale,,
+7195245985,"Barrett, Joy",,2021-06-02,relisted,,
+2040648541,"Williams, Kristy","Johnson, Tyler",2023-04-28,pending sale,,
+2040648541,"Williams, Kristy","Johnson, Tyler",2023-05-22,sold,1455533.64,5.349569143885155
+4581343079,"Howard, Katherine","Rivera, Paul",2022-10-17,pending sale,,
+4581343079,"Howard, Katherine",,2022-10-20,relisted,,
+7247956617,"Shaffer, Jacqueline","Gray, Michelle",2022-06-27,pending sale,,
+7247956617,"Shaffer, Jacqueline",,2022-07-05,relisted,,
+2458009110,"Obrien, Stephanie","Kirk, Joseph",2023-03-14,pending rental,,
+2458009110,"Obrien, Stephanie","Kirk, Joseph",2023-03-27,rented,4275.89,100
+4688231075,"Morse, Randy","Nichols, Erika",2022-07-12,pending rental,,
+4688231075,"Morse, Randy","Nichols, Erika",2022-08-07,rented,5135.98,100
+5398401714,"Paul, Ashley","Schwartz, Gregory",2023-04-14,pending rental,,
+5398401714,"Paul, Ashley",,2023-04-24,relisted,,
+1505549096,"Dodson, Rhonda","Lopez, Maria",2022-09-02,pending rental,,
+1505549096,"Dodson, Rhonda",,2022-09-26,relisted,,
+3967942322,"Hopkins, Andrew","Mitchell, Amanda",2022-07-06,pending rental,,
+3967942322,"Hopkins, Andrew","Mitchell, Amanda",2022-08-05,rented,4605.81,100
+7368390980,"Turner, Cynthia","Duncan, Troy",2022-07-28,pending sale,,
+7368390980,"Turner, Cynthia","Duncan, Troy",2022-08-11,sold,177782.32,5.033609500875185
+9320586186,"Norris, Joshua","Fischer, Lisa",2024-04-17,pending sale,,
+9320586186,"Norris, Joshua",,2024-05-09,relisted,,
+9159673295,"Lopez, Katherine","Sherman, Christopher",2023-09-06,pending rental,,
+9159673295,"Lopez, Katherine",,2023-09-08,relisted,,
+6503459925,"Miller, Danielle","Chen, Donna",2023-07-17,pending sale,,
+6503459925,"Miller, Danielle",,2023-08-07,relisted,,
+3023461438,"Hodges, Patrick","Tucker, Michael",2022-04-28,pending rental,,
+3023461438,"Hodges, Patrick",,2022-05-07,relisted,,
+9790945528,"Fletcher, Margaret","Deleon, Paul",2022-06-28,pending sale,,
+9790945528,"Fletcher, Margaret",,2022-07-23,relisted,,
+4966572934,"Barrett, Joy","Ingram, William",2021-11-12,pending sale,,
+4966572934,"Barrett, Joy",,2021-11-28,relisted,,
+6471114946,"Collins, Briana","Pierce, Andrew",2022-10-29,pending rental,,
+6471114946,"Collins, Briana",,2022-10-31,relisted,,
+1710274970,"Hopkins, Andrew","Harris, Mason",2022-06-13,pending rental,,
+1710274970,"Hopkins, Andrew",,2022-07-04,relisted,,
+5587449546,"Garcia, Craig","Wilkerson, Abigail",2021-06-18,pending rental,,
+5587449546,"Garcia, Craig","Wilkerson, Abigail",2021-06-26,rented,4249.05,100
+3972248754,"Galvan, Alyssa","Thomas, John",2023-04-30,pending rental,,
+3972248754,"Galvan, Alyssa","Thomas, John",2023-05-23,rented,4569.94,100
+9178375516,"Brennan, Lindsay","Davenport, Christopher",2022-08-22,pending rental,,
+9178375516,"Brennan, Lindsay",,2022-09-03,relisted,,
+3704107507,"Garcia, Christopher","Vargas, Michelle",2023-05-09,pending sale,,
+3704107507,"Garcia, Christopher",,2023-05-22,relisted,,
+3932336626,"Shaw, Thomas","Ochoa, Maria",2024-03-24,pending sale,,
+3932336626,"Shaw, Thomas",,2024-03-29,relisted,,
+4702479708,"Frye, Angela","Herman, Robert",2022-11-17,pending rental,,
+4702479708,"Frye, Angela",,2022-12-02,relisted,,
+5751222542,"Harris, Jennifer","Anderson, Jacob",2023-08-30,pending rental,,
+5751222542,"Harris, Jennifer","Anderson, Jacob",2023-09-24,rented,3185.85,100
+9188464033,"Johnson, Angelica","Mills, Katie",2022-11-18,pending rental,,
+9188464033,"Johnson, Angelica","Mills, Katie",2022-11-28,rented,4146.39,100
+5333702893,"Shaffer, Jacqueline","Spencer, Jessica",2022-12-20,pending sale,,
+5333702893,"Shaffer, Jacqueline","Spencer, Jessica",2022-12-22,sold,1796824.55,4.850556959512277
+8608003224,"Campos, Michael","Lopez, Donna",2022-04-21,pending sale,,
+8608003224,"Campos, Michael","Lopez, Donna",2022-04-28,sold,1091812.56,3.837890420331381
+3220955760,"Marshall, Nicole","Fox, Rhonda",2022-01-05,pending sale,,
+3220955760,"Marshall, Nicole",,2022-01-08,relisted,,
+4653209347,"Hines, Monica","Williams, Rebecca",2021-09-04,pending rental,,
+4653209347,"Hines, Monica",,2021-09-11,relisted,,
+1940268740,"Brown, John","Parker, Phillip",2023-02-24,pending sale,,
+1940268740,"Brown, John",,2023-03-18,relisted,,
+3982485831,"Meyer, Valerie","Nixon, Jonathan",2024-02-26,pending sale,,
+3982485831,"Meyer, Valerie","Nixon, Jonathan",2024-02-29,sold,467162.62,4.701230689230888
+7829499435,"Miller, Alejandro","Bennett, Bryan",2023-07-08,pending rental,,
+7829499435,"Miller, Alejandro",,2023-08-05,relisted,,
+9579006329,"Gomez, Shannon","Campbell, Jason",2022-12-15,pending sale,,
+9579006329,"Gomez, Shannon","Campbell, Jason",2022-12-19,sold,1519544.57,3.6016234746627593
+8880177786,"Wood, Maria","Hancock, Rebecca",2023-10-18,pending rental,,
+8880177786,"Wood, Maria",,2023-11-14,relisted,,
+2674031539,"Olsen, Ann","Eaton, Ana",2024-02-19,pending rental,,
+2674031539,"Olsen, Ann","Eaton, Ana",2024-03-02,rented,2966.25,100
+6427279284,"Lowery, Michael","Thomas, Christina",2023-10-22,pending sale,,
+6427279284,"Lowery, Michael","Thomas, Christina",2023-11-09,sold,1246937.84,5.446962267633564
+8573053847,"Erickson, Dakota","Cervantes, Kristin",2021-08-31,pending rental,,
+8573053847,"Erickson, Dakota",,2021-09-18,relisted,,
+8808057909,"Hines, Monica","Peters, Jimmy",2022-11-20,pending sale,,
+8808057909,"Hines, Monica","Peters, Jimmy",2022-12-02,sold,1132143.42,4.477987982278918
+5749283692,"Campbell, Christopher","Fuller, Amy",2022-05-17,pending rental,,
+5749283692,"Campbell, Christopher","Fuller, Amy",2022-06-05,rented,5304.24,100
+7484661159,"Cox, Kathleen","Richardson, Todd",2022-06-26,pending sale,,
+7484661159,"Cox, Kathleen",,2022-07-17,relisted,,
+3834738388,"Wise, David","Henry, Matthew",2021-11-05,pending rental,,
+3834738388,"Wise, David","Henry, Matthew",2021-11-11,rented,4371.15,100
+8043727944,"Wilcox, Frank","Ramsey, Linda",2023-07-20,pending rental,,
+8043727944,"Wilcox, Frank",,2023-08-19,relisted,,
+4928071960,"Campos, Michael","Melton, Ashley",2023-11-18,pending sale,,
+4928071960,"Campos, Michael","Melton, Ashley",2023-11-28,sold,1406445.11,5.0773628569500495
+1029804109,"Garrett, Raymond","Campbell, Kevin",2022-05-12,pending rental,,
+1029804109,"Garrett, Raymond",,2022-05-24,relisted,,
+2443212928,"Vargas, Leah","Brown, Julie",2023-12-06,pending sale,,
+2443212928,"Vargas, Leah","Brown, Julie",2023-12-07,sold,390477.34,5.920903099191091
+8471862726,"Wood, Maria","Moore, Michael",2023-05-15,pending rental,,
+8471862726,"Wood, Maria",,2023-06-02,relisted,,
+3201092595,"Norris, Joshua","Cervantes, Monique",2023-08-01,pending rental,,
+3201092595,"Norris, Joshua",,2023-08-21,relisted,,
+4120368530,"Coffey, Patrick","Reed, Sandra",2023-04-14,pending rental,,
+4120368530,"Coffey, Patrick","Reed, Sandra",2023-04-15,rented,3946.58,100
+7379483659,"Brown, John","Wilson, Danielle",2023-09-02,pending rental,,
+7379483659,"Brown, John","Wilson, Danielle",2023-09-03,rented,2718.55,100
+9437244537,"Adams, Ashley","Ochoa, Maria",2021-04-29,pending rental,,
+9437244537,"Adams, Ashley","Ochoa, Maria",2021-05-05,rented,4678.09,100
+4852910651,"Gomez, Shannon","Collins, Kenneth",2022-11-05,pending rental,,
+4852910651,"Gomez, Shannon",,2022-11-29,relisted,,
+1742522059,"Skinner, Aaron","Mcdaniel, Victor",2022-12-05,pending rental,,
+1742522059,"Skinner, Aaron","Mcdaniel, Victor",2022-12-16,rented,3449.07,100
+6895301692,"Bell, Christopher","Stewart, Jessica",2021-11-14,pending sale,,
+6895301692,"Bell, Christopher","Stewart, Jessica",2021-11-30,sold,1285426.44,5.1899177314540275
+7409981392,"Pham, Karen","Cisneros, Melissa",2022-05-07,pending rental,,
+7409981392,"Pham, Karen","Cisneros, Melissa",2022-05-19,rented,3149.37,100
+9940533118,"Evans, Christina","Kane, Jeremy",2023-05-05,pending sale,,
+9940533118,"Evans, Christina",,2023-06-03,relisted,,
+7820725039,"Collier, James","Sanchez, Connie",2022-09-02,pending rental,,
+7820725039,"Collier, James","Sanchez, Connie",2022-09-10,rented,2865.54,100
+6678429180,"Coleman, Katherine","Carlson, Alexis",2023-04-22,pending sale,,
+6678429180,"Coleman, Katherine","Carlson, Alexis",2023-05-06,sold,555824.54,5.609923059163622
+7686730289,"Marshall, Nicole","Clark, David",2021-08-14,pending rental,,
+7686730289,"Marshall, Nicole","Clark, David",2021-09-11,rented,4196.27,100
+9404735525,"Watson, Samantha","Harvey, Latoya",2023-08-13,pending sale,,
+9404735525,"Watson, Samantha",,2023-09-06,relisted,,
+3678440066,"Gonzales, Catherine","Foley, William",2023-08-08,pending rental,,
+3678440066,"Gonzales, Catherine",,2023-08-25,relisted,,
+4170098491,"Taylor, Richard","Hansen, Jennifer",2023-04-12,pending sale,,
+4170098491,"Taylor, Richard",,2023-05-11,relisted,,
+9841512327,"Collins, Briana","Walker, John",2022-10-20,pending sale,,
+9841512327,"Collins, Briana","Walker, John",2022-10-25,sold,1004192.4,5.754468778175658
+2140095310,"Garcia, Hannah","Hancock, Emily",2021-11-12,pending rental,,
+2140095310,"Garcia, Hannah","Hancock, Emily",2021-11-23,rented,4810.76,100
+3653919393,"Grant, Douglas","Allen, Robert",2023-12-22,pending rental,,
+3653919393,"Grant, Douglas",,2024-01-05,relisted,,
+1329421264,"Mcgrath, Alison","Jacobs, Traci",2022-10-25,pending sale,,
+1329421264,"Mcgrath, Alison","Jacobs, Traci",2022-11-21,sold,1119295.42,4.888258247961305
+8447222144,"Barrett, Joy","Rich, David",2022-04-07,pending sale,,
+8447222144,"Barrett, Joy",,2022-05-04,relisted,,
+9020405802,"Gray, Christina","Thompson, Carolyn",2022-10-09,pending sale,,
+9020405802,"Gray, Christina","Thompson, Carolyn",2022-11-01,sold,715383.63,3.497977768281271
+6533078855,"Klein, Brian","Adams, Abigail",2023-01-31,pending sale,,
+6533078855,"Klein, Brian",,2023-03-02,relisted,,
+9511963792,"Olson, Andrea","Holloway, Ryan",2021-10-30,pending rental,,
+9511963792,"Olson, Andrea","Holloway, Ryan",2021-11-12,rented,4825.7,100
+8967936264,"Shaffer, Jacqueline","Aguilar, James",2022-09-20,pending rental,,
+8967936264,"Shaffer, Jacqueline",,2022-10-11,relisted,,
+5999891335,"Rios, Mary","Kane, Jeremy",2023-01-02,pending sale,,
+5999891335,"Rios, Mary","Kane, Jeremy",2023-01-17,sold,1553265.31,3.377216110316723
+3858393044,"Brown, John","Vega, Max",2024-02-26,pending sale,,
+3858393044,"Brown, John","Vega, Max",2024-03-01,sold,1777286.77,4.30266972112009
+3948004641,"Evans, Christina","Vega, Max",2021-06-09,pending rental,,
+3948004641,"Evans, Christina","Vega, Max",2021-07-08,rented,4346.95,100
+8407575464,"Dodson, Rhonda","Edwards, Andrew",2023-09-15,pending sale,,
+8407575464,"Dodson, Rhonda","Edwards, Andrew",2023-09-19,sold,2009961.27,5.041146589392212
+1634132708,"Wise, David","Thompson, Joshua",2021-05-09,pending rental,,
+1634132708,"Wise, David",,2021-06-03,relisted,,
+3330500566,"Cruz, Connie","Thomas, Antonio",2021-08-13,pending rental,,
+3330500566,"Cruz, Connie",,2021-08-29,relisted,,
+7098482499,"Evans, Teresa","Hall, Lauren",2023-09-06,pending sale,,
+7098482499,"Evans, Teresa","Hall, Lauren",2023-09-27,sold,984020.08,5.746768227307626
+6316164549,"Ross, Patricia","Johnson, Tyler",2022-03-11,pending sale,,
+6316164549,"Ross, Patricia",,2022-04-09,relisted,,
+1685091401,"Mccann, Wendy","Delgado, William",2021-08-11,pending rental,,
+1685091401,"Mccann, Wendy",,2021-08-22,relisted,,
+6958261324,"Taylor, Jessica","Ortega, Matthew",2024-02-19,pending rental,,
+6958261324,"Taylor, Jessica",,2024-03-12,relisted,,
+9751634494,"Garcia, Hannah","Smith, Matthew",2023-01-06,pending sale,,
+9751634494,"Garcia, Hannah",,2023-02-05,relisted,,
+3965035241,"Garrett, Raymond","Robertson, Tony",2023-02-28,pending sale,,
+3965035241,"Garrett, Raymond","Robertson, Tony",2023-03-07,sold,1606082.2,5.337448434125235
+9617723638,"Bradley, Michael","Freeman, Nicholas",2022-11-19,pending rental,,
+9617723638,"Bradley, Michael",,2022-11-23,relisted,,
+5680260982,"Parker, Stephanie","Horn, Robin",2022-12-08,pending sale,,
+5680260982,"Parker, Stephanie","Horn, Robin",2022-12-20,sold,849371.69,5.880765127212438
+5908979080,"Cruz, Connie","Williams, Megan",2021-05-04,pending rental,,
+5908979080,"Cruz, Connie",,2021-05-18,relisted,,
+2344846015,"Smith, Joshua","Walker, John",2022-02-25,pending rental,,
+2344846015,"Smith, Joshua",,2022-03-10,relisted,,
+8334490948,"Patton, Colton","Smith, David",2023-08-15,pending sale,,
+8334490948,"Patton, Colton",,2023-08-26,relisted,,
+7559662570,"Coffey, Patrick","Martin, Miguel",2021-05-17,pending sale,,
+7559662570,"Coffey, Patrick",,2021-06-16,relisted,,
+4684711282,"Walsh, Timothy","Deleon, Paul",2023-05-15,pending rental,,
+4684711282,"Walsh, Timothy",,2023-06-11,relisted,,
+3634046313,"Hodges, Patrick","Skinner, Lisa",2022-10-25,pending sale,,
+3634046313,"Hodges, Patrick",,2022-11-08,relisted,,
+4803923477,"Fry, Joseph","Cole, Audrey",2023-11-09,pending rental,,
+4803923477,"Fry, Joseph",,2023-11-30,relisted,,
+6377738404,"Mcguire, Jeanette","Rodriguez, Teresa",2021-09-18,pending sale,,
+6377738404,"Mcguire, Jeanette",,2021-09-24,relisted,,
+1445131562,"Gray, Christina","Graham, Rodney",2024-02-03,pending sale,,
+1445131562,"Gray, Christina","Graham, Rodney",2024-02-12,sold,1043535.1,4.0870981742846455
+3338842598,"Romero, Diane","Martinez, Melanie",2021-12-28,pending sale,,
+3338842598,"Romero, Diane","Martinez, Melanie",2022-01-16,sold,548998.32,5.51948479925934
+6685464770,"Saunders, Kimberly","Smith, Rhonda",2022-03-24,pending rental,,
+6685464770,"Saunders, Kimberly",,2022-04-17,relisted,,
+1633700529,"Fry, Joseph","Nguyen, Jeffrey",2023-05-03,pending rental,,
+1633700529,"Fry, Joseph","Nguyen, Jeffrey",2023-05-31,rented,1766.37,100
+1946900894,"Paul, Ashley","Collier, Nicholas",2023-12-23,pending sale,,
+1946900894,"Paul, Ashley","Collier, Nicholas",2024-01-18,sold,661792.55,4.486295655601568
+4703088863,"Cox, Kathleen","Rios, Steven",2023-08-25,pending sale,,
+4703088863,"Cox, Kathleen",,2023-09-22,relisted,,
+6004494144,"Hines, Monica","Lopez, Scott",2024-02-04,pending sale,,
+6004494144,"Hines, Monica","Lopez, Scott",2024-02-11,sold,1109392.43,3.8888104111064465
+2841766560,"Kane, Diana","Tucker, Michael",2021-07-03,pending rental,,
+2841766560,"Kane, Diana","Tucker, Michael",2021-07-08,rented,1843.58,100
+3569848733,"Wilcox, Frank","West, Sonia",2024-02-07,pending rental,,
+3569848733,"Wilcox, Frank",,2024-03-08,relisted,,
+5024629128,"Obrien, Stephanie","Ball, Brian",2024-02-12,pending rental,,
+5024629128,"Obrien, Stephanie","Ball, Brian",2024-03-02,rented,1670.95,100
+3152139744,"Miller, Danielle","Boyd, Ronald",2021-09-05,pending sale,,
+3152139744,"Miller, Danielle",,2021-10-03,relisted,,
+3198379282,"Shaw, Thomas","Martinez, Melanie",2022-08-21,pending rental,,
+3198379282,"Shaw, Thomas",,2022-09-07,relisted,,
+5395966776,"Leon, Patrick","Smith, Jim",2022-02-25,pending rental,,
+5395966776,"Leon, Patrick","Smith, Jim",2022-03-23,rented,4438.93,100
+9767801149,"Hodges, Patrick","White, Ryan",2023-09-19,pending sale,,
+9767801149,"Hodges, Patrick",,2023-09-21,relisted,,
+2843526243,"Gonzales, Catherine","Roach, Lori",2021-07-09,pending rental,,
+2843526243,"Gonzales, Catherine","Roach, Lori",2021-07-25,rented,1880.94,100
+5279747204,"Cruz, Connie","Wright, Charles",2024-04-03,pending rental,,
+5279747204,"Cruz, Connie",,2024-04-17,relisted,,
+4141563316,"Barry, Megan","Rodriguez, Kelly",2023-12-22,pending sale,,
+4141563316,"Barry, Megan",,2024-01-01,relisted,,
+5736840617,"Wheeler, Michelle","Adams, Emily",2022-03-09,pending sale,,
+5736840617,"Wheeler, Michelle","Adams, Emily",2022-03-18,sold,434264.58,3.1272690323557466
+7973263918,"Miller, Alejandro","Ball, Brian",2023-10-12,pending sale,,
+7973263918,"Miller, Alejandro",,2023-10-13,relisted,,
+8085511559,"Grant, Douglas","Martin, Julie",2022-10-30,pending rental,,
+8085511559,"Grant, Douglas","Martin, Julie",2022-11-23,rented,5005.24,100
+4585568154,"Garrett, Raymond","Gardner, Erika",2022-09-17,pending sale,,
+4585568154,"Garrett, Raymond",,2022-10-11,relisted,,
+1343252593,"White, Gregory","Moore, Harold",2022-10-04,pending sale,,
+1343252593,"White, Gregory","Moore, Harold",2022-10-05,sold,379899.18,5.767976914997627
+7090244977,"Frye, Angela","Gray, Kimberly",2023-04-18,pending sale,,
+7090244977,"Frye, Angela","Gray, Kimberly",2023-05-14,sold,219941.04,5.85270366612125
+5003411297,"Romero, Diane","Ray, David",2023-09-03,pending rental,,
+5003411297,"Romero, Diane","Ray, David",2023-09-22,rented,4438.15,100
+6842821037,"Lowery, Michael","Ritter, Megan",2021-10-22,pending sale,,
+6842821037,"Lowery, Michael","Ritter, Megan",2021-11-15,sold,1140431.15,3.264291219880207
+1529587873,"Bright, Robert","Thornton, Jessica",2023-01-18,pending rental,,
+1529587873,"Bright, Robert",,2023-02-10,relisted,,
+4456353460,"Taylor, Richard","Hogan, Catherine",2023-03-26,pending rental,,
+4456353460,"Taylor, Richard","Hogan, Catherine",2023-04-25,rented,4900.51,100
+9386682210,"Taylor, Jessica","Frey, Daniel",2024-01-27,pending sale,,
+9386682210,"Taylor, Jessica",,2024-02-18,relisted,,
+5871035323,"Norris, Joshua","Johnston, Jeffrey",2024-03-30,pending sale,,
+5871035323,"Norris, Joshua",,2024-04-11,relisted,,
+5371432554,"Vaughan, Robert","Stokes, Savannah",2023-07-21,pending rental,,
+5371432554,"Vaughan, Robert","Stokes, Savannah",2023-07-22,rented,1897.87,100
+6316792665,"Meyer, Valerie","Bond, Erik",2024-01-12,pending rental,,
+6316792665,"Meyer, Valerie",,2024-01-22,relisted,,
+1789675386,"Adams, Ashley","Riley, Cody",2023-06-26,pending rental,,
+1789675386,"Adams, Ashley",,2023-07-13,relisted,,
+9018826436,"Zimmerman, Melissa","Serrano, Daniel",2021-06-05,pending rental,,
+9018826436,"Zimmerman, Melissa","Serrano, Daniel",2021-07-01,rented,2106.04,100
+3478087747,"Evans, Christina","Williams, Corey",2022-02-12,pending rental,,
+3478087747,"Evans, Christina",,2022-02-13,relisted,,
+8342121668,"Gibbs, Anthony","Robinson, Annette",2021-12-21,pending sale,,
+8342121668,"Gibbs, Anthony","Robinson, Annette",2022-01-01,sold,252194.44,4.974210894446349
+3310105252,"Ross, Patricia","Smith, Anthony",2022-03-20,pending sale,,
+3310105252,"Ross, Patricia",,2022-04-01,relisted,,
+6363011015,"Wood, Maria","Woods, Christopher",2024-04-05,pending sale,,
+6363011015,"Wood, Maria",,2024-04-20,relisted,,
+9338779923,"Ross, Patricia","Young, Daniel",2022-04-16,pending rental,,
+9338779923,"Ross, Patricia",,2022-04-30,relisted,,
+1135001627,"Bright, Robert","Barajas, Christopher",2023-03-05,pending rental,,
+1135001627,"Bright, Robert","Barajas, Christopher",2023-03-09,rented,4383.92,100
+4106718339,"Gonzales, Catherine","Simpson, Peggy",2021-08-29,pending rental,,
+4106718339,"Gonzales, Catherine","Simpson, Peggy",2021-09-27,rented,2528.69,100
+3499977545,"Davis, Craig","Benton, Lawrence",2024-01-02,pending sale,,
+3499977545,"Davis, Craig","Benton, Lawrence",2024-01-03,sold,1607205.85,3.647649551257378
+9489315200,"Lopez, Katherine","Alvarez, Rebecca",2021-11-21,pending sale,,
+9489315200,"Lopez, Katherine","Alvarez, Rebecca",2021-12-05,sold,187671.86,5.856020889960824
+5575446710,"Zimmerman, Melissa","Pacheco, Christopher",2023-09-29,pending rental,,
+5575446710,"Zimmerman, Melissa","Pacheco, Christopher",2023-10-08,rented,4838.15,100
+9725639483,"Coffey, Patrick","Molina, Catherine",2022-12-04,pending sale,,
+9725639483,"Coffey, Patrick",,2022-12-21,relisted,,
+2826240073,"Mcguire, Jeanette","Brown, Roberta",2022-05-17,pending sale,,
+2826240073,"Mcguire, Jeanette","Brown, Roberta",2022-06-09,sold,648003.05,4.243938093047598
+2485731576,"Miller, Alejandro","Knight, Samantha",2022-04-16,pending sale,,
+2485731576,"Miller, Alejandro","Knight, Samantha",2022-05-04,sold,689568.17,4.103708347405798
+9167363796,"Barry, Megan","Harris, Tony",2022-01-23,pending sale,,
+9167363796,"Barry, Megan",,2022-02-22,relisted,,
+1554099626,"Wise, David","Sanchez, Roger",2023-12-27,pending sale,,
+1554099626,"Wise, David",,2024-01-01,relisted,,
+9517201687,"Parker, Stephanie","Cunningham, Alexander",2022-09-18,pending rental,,
+9517201687,"Parker, Stephanie","Cunningham, Alexander",2022-09-28,rented,2032.32,100
+5217399674,"Bradley, Michael","Warren, Kayla",2023-04-16,pending rental,,
+5217399674,"Bradley, Michael","Warren, Kayla",2023-04-17,rented,1941.28,100
+8704970437,"Thomas, Kenneth","Klein, Julie",2021-05-25,pending rental,,
+8704970437,"Thomas, Kenneth",,2021-05-31,relisted,,
+7355470373,"Bradley, Michael","Simpson, Stephanie",2022-01-17,pending sale,,
+7355470373,"Bradley, Michael","Simpson, Stephanie",2022-01-21,sold,1055556.42,3.887302760496746
+6844418646,"Clements, Derek","Hart, Brandon",2022-01-24,pending sale,,
+6844418646,"Clements, Derek","Hart, Brandon",2022-01-27,sold,853967.16,3.264310855609529
+5182249806,"Cruz, Pamela","Wallace, Zachary",2023-02-25,pending rental,,
+5182249806,"Cruz, Pamela",,2023-03-03,relisted,,
+9770477885,"Shaw, Thomas","Bradshaw, Susan",2023-05-25,pending sale,,
+9770477885,"Shaw, Thomas",,2023-06-03,relisted,,
+2736305428,"Patton, Colton","Boyd, Ronald",2024-03-09,pending sale,,
+2736305428,"Patton, Colton",,2024-03-15,relisted,,
+6522897816,"Howard, Katherine","Woods, Lisa",2021-05-08,pending rental,,
+6522897816,"Howard, Katherine","Woods, Lisa",2021-05-12,rented,4840.21,100
+2435007989,"Gonzales, Catherine","Santana, Matthew",2021-07-15,pending rental,,
+2435007989,"Gonzales, Catherine","Santana, Matthew",2021-08-12,rented,4882.1,100
+1208138496,"Olson, Andrea","Schultz, Priscilla",2021-06-22,pending sale,,
+1208138496,"Olson, Andrea","Schultz, Priscilla",2021-06-29,sold,1197754.36,5.094602811955022
+3344084293,"Davis, Ashley","Coleman, Logan",2022-10-11,pending sale,,
+3344084293,"Davis, Ashley",,2022-10-17,relisted,,
+1700712270,"Wood, Maria","Mclaughlin, Andrew",2024-03-24,pending rental,,
+1700712270,"Wood, Maria","Mclaughlin, Andrew",2024-03-26,rented,4662.99,100
+1429240846,"Morse, Randy","Jones, Andrew",2021-12-27,pending rental,,
+1429240846,"Morse, Randy",,2022-01-01,relisted,,
+5569993693,"Saunders, Kimberly","Hernandez, Lori",2021-08-09,pending rental,,
+5569993693,"Saunders, Kimberly","Hernandez, Lori",2021-08-13,rented,2122.87,100
+1745751442,"Cruz, Connie","Snyder, Janet",2023-10-01,pending rental,,
+1745751442,"Cruz, Connie","Snyder, Janet",2023-10-24,rented,4282.22,100
+5874392616,"Meyer, Valerie","Jensen, Michelle",2021-08-04,pending sale,,
+5874392616,"Meyer, Valerie",,2021-08-06,relisted,,
+3858492578,"Bell, Christopher","Carroll, Sheila",2022-02-08,pending rental,,
+3858492578,"Bell, Christopher","Carroll, Sheila",2022-02-19,rented,4869.51,100
+7397953436,"Adams, Ashley","Perez, Bonnie",2021-05-05,pending sale,,
+7397953436,"Adams, Ashley","Perez, Bonnie",2021-05-31,sold,2016269.6,3.3710542953033458
+9974851361,"Barnes, Michael","Patterson, Daniel",2022-08-14,pending rental,,
+9974851361,"Barnes, Michael",,2022-09-07,relisted,,
+7918423917,"Olson, Andrea","Castillo, Rachel",2022-05-30,pending rental,,
+7918423917,"Olson, Andrea",,2022-06-10,relisted,,
+8525510201,"Lee, Melissa","Cervantes, Kristin",2022-05-08,pending rental,,
+8525510201,"Lee, Melissa",,2022-05-10,relisted,,
+2308957847,"Anderson, Joseph","Wilson, Jacqueline",2022-03-05,pending sale,,
+2308957847,"Anderson, Joseph",,2022-03-20,relisted,,
+2076391253,"Bell, Christopher","Beasley, Marcus",2023-02-15,pending sale,,
+2076391253,"Bell, Christopher",,2023-03-08,relisted,,
+7919467850,"Mcgrath, Alison","Horton, Martin",2022-06-16,pending sale,,
+7919467850,"Mcgrath, Alison","Horton, Martin",2022-07-06,sold,1249915.2,4.4359333492748885
+9775018591,"Holland, Kristy","Jones, Andrew",2021-12-28,pending rental,,
+9775018591,"Holland, Kristy",,2022-01-26,relisted,,
+6429659679,"Johnson, Angelica","Jones, Dorothy",2022-11-06,pending sale,,
+6429659679,"Johnson, Angelica",,2022-11-14,relisted,,
+1858711056,"Mcguire, Jeanette","Mosley, Mary",2023-01-19,pending rental,,
+1858711056,"Mcguire, Jeanette","Mosley, Mary",2023-02-15,rented,4155.69,100
+1828375380,"Shaffer, Jacqueline","Jones, Andrew",2023-04-17,pending rental,,
+1828375380,"Shaffer, Jacqueline","Jones, Andrew",2023-05-09,rented,3096.9,100
